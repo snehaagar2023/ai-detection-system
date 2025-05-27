@@ -1,3 +1,6 @@
 ai-vs-human-text.zip
 data/AI_Human.csv
 initial-roberta-ai-detector/
+3epoch-t5-ai-detector/
+moredata-roberta-ai-detector/
+initial-t5-ai-detector/
