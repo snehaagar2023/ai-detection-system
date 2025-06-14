@@ -1,4 +1,4 @@
-# AI Detection System — CS162 Final Project
+# AI Detection System
 
 **Contributors:** Sneha Agarwal, Kevin Lu, Samuel Perrott  
 **Course:** CS162 — UCLA
@@ -82,16 +82,6 @@ tokenizer = T5Tokenizer.from_pretrained("t5-small")
 3. **T5-small fine-tuned models** - Multiple variants of fine-tuned T5 models
 4. **T5-large experiments** - Experiments with larger T5 variants
 5. **t5-ethics-ai-human-detector** - Our best-performing final model
-
----
-
-## Evaluation Domains
-
-The models were evaluated across multiple text domains:
-- Academic writing
-- Open QA responses
-- Reddit-style discussions
-- Other open-ended text domains
 
 ---
 
