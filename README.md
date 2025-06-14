@@ -1,4 +1,4 @@
-# AI Detection System — CS162 Final Project
+# AI Detection System
 
 **Contributors:** Sneha Agarwal, Kevin Lu, Samuel Perrott  
 **Course:** CS162 — UCLA
@@ -18,6 +18,8 @@ Our best-performing model is `t5-ethics-ai-human-detector`, a fine-tuned version
 ## Repository Contents
 
 This repository contains all code, data files, and evaluation results required to reproduce our results and run inference on the dev set.
+
+Note: You have to download the models from [here](https://drive.google.com/file/d/1a0l7UakV_sqBDMJimBj_BsW3zrVllCo1/view?usp=sharing)
 
 ```
 ├── README.md
