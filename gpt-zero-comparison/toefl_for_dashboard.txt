@@ -1,0 +1,162 @@
+=== TOEFL SAMPLES FOR GPTZER ===
+
+--- Document 40 ---
+True Label: Human
+Model: human
+Text Length: 783 characters, 140 words
+Text: If I am choosing between doing homework alone and doing it with others, I will choose to do homework with others for two main reasons. The first reason is that it is more fun to do homework with others. For example, when you do homework with your friends, you can chat with them when you get tired or feel bored, and this will help you relax and become more focused on your work later. As another reason, I prefer doing homework with others because we can engage in discussions. For instance, homework is very difficult sometimes. If you get stuck on a question, you can ask your friends who are doing the same homework, and these homework discussions will help you understand the concept and answer questions on your homework. For these reasons, I prefer to do homework with others.
+
+================================================================================
+
+--- Document 22 ---
+True Label: Human
+Model: human
+Text Length: 526 characters, 86 words
+Text: I do agree that a higher education means a better career. To begin with, with the advancement of technology and the advancement of the world itself, companies are becoming more complex. If they want their company to succeed, they will need to have intelligent, knowledgeable, and competent individuals working for them. In addition, having a higher education will give you an advantage over the other candidates applying for the same job. Therefore, these reasons are why I agree that a higher education means a better career.
+
+================================================================================
+
+--- Document 55 ---
+True Label: Human
+Model: human
+Text Length: 497 characters, 88 words
+Text: As far as I am concerned, television is the most important invention of the last 100 years. First, from the news broadcasting in the television, we can know what is happening in the outside world even without stepping out our living room with television in it. And second, watching television with family members after supper is a good way to relax after a hard day's work. What's more, its visual effect makes people feel less stressed and has a great influence on the way people think and talk. 
+
+================================================================================
+
+--- Document 88 ---
+True Label: Human
+Model: human
+Text Length: 789 characters, 133 words
+Text: If I am choosing among computer science, business, and photography classes, I will choose computer science for two main reasons. First of all, I prefer computer science because programming is a skill that is applicable to all industries. For example, even if I want to work in the fashion industry one day, I can still use my programming skills to help my company build a beautiful website, write a useful app for its customers, and so on. I addition, I prefer computer science because computer science classes can teach me how to solve problems. For instance, I can learn how to analyze problems and solve them systematically through logic. This problem-solving ability helps me become a smarter candidate, so I have a higher chance of finding a job. Therefore, I prefer computer science.
+
+================================================================================
+
+--- Document 0 ---
+True Label: Human
+Model: human
+Text Length: 501 characters, 96 words
+Text: I prefer to cook at home. First of all, it is cheaper and safer than the restaurant. Because I can buy the things needed for cooking, and I can make sure that they are clean and fresh. Second, making a good dinner helps me obtain a sense of achievement. On every Spring festival, I always make dinner for my whole family, they always think that the meal is delicious and we can chat freely around the table. I am really proud of it and I think it can improve the relationship between my family and me.
+
+================================================================================
+
+--- Document 26 ---
+True Label: Human
+Model: human
+Text Length: 568 characters, 105 words
+Text: I read a lot in my spare time, and the book I just read recently called A Thousand Splendid suns is very useful for me. Simple and plain, the book tells a great story. Two Afghan women from completely different background were brought together by cruel fate, but they never stopped fighting for freedom and love. The book tells me that in spite of all the sufferings the nation has beared for decades, people there still remain the most precious things in the world. I was under a lot of pressure from family and school then, but the book taught me never to lose hope.
+
+================================================================================
+
+--- Document 39 ---
+True Label: Human
+Model: human
+Text Length: 731 characters, 130 words
+Text: I would choose health and nutrition classes for two main reasons. First, I deal with nutrition every single day. When I am trying to make healthy choices for my body, I am sometimes uncertain about what the best foods are the most nutritious. A health and nutrition class would surely ease that trouble and help me make choices that are good for my body. Second, I am not very interested in sciences, so I don’t think an energy and environment or solar system class would be very intriguing to me. I would rather take classes that excite me rather than the class I was totally disinterested. So, for these two reasons, I would choose to take a health and nutrition class, rather than energy and environment, or solar system course.
+
+================================================================================
+
+--- Document 66 ---
+True Label: Human
+Model: human
+Text Length: 743 characters, 132 words
+Text: I think it's better for students to have young teachers even if they're a little bit inexperienced. First of all, young teachers can relate more to their students.  They simply have a lot more in common with them in terms of personal interests and pop culture awareness.  As a result, it's easier for them to connect the classroom material to the real lives of the students.  This can encourage kids to stay motivated and keep on task for their whole school day. Secondly, younger teachers have a lot more energy.  Class sizes are huge now.  In fact, they're probably bigger than ever before.  This can create trouble for older teachers who might run out of energy and not be able to finish their lessons if they have a huge group of students.
+
+================================================================================
+
+--- Document 10 ---
+True Label: Human
+Model: human
+Text Length: 536 characters, 102 words
+Text: There's no doubt that I will choose to be an engineer. Being an engineer is something I've always been looking forward to since I was a little kid. It will allow me to bring out my creativity in my daily work, that's just like dreams coming true. And I'd like it if I can build something that would last much longer even after I am gone, and seeing people benefit from my design will definitely give me great satisfaction. So going to engineering school really is a brand new start of my life. That's why I would choose it as my career.
+
+================================================================================
+
+--- Document 44 ---
+True Label: Human
+Model: human
+Text Length: 763 characters, 121 words
+Text: In my opinion, schools should still allow sports that carry that risk despite the risk of serious physical injury. First of all, it is not the responsibility of schools to completely eliminate all risk from the lives of students. Otherwise, they would have to abolish any science labs that used chemicals or sharp objects because they pose a potential threat to safety. Furthermore, students and their families should be allowed to make personal decisions about what kind of activities they are participating in despite risk as long as they are not simultaneously endangering unknowing bystanders. Therefore, I firmly believe that schools should allow students to make decisions about what sports they will play, even when those sports contain some serious risks.
+
+================================================================================
+
+--- Document 85 ---
+True Label: Human
+Model: human
+Text Length: 737 characters, 144 words
+Text: I agree with the idea of giving children homework on a daily basis.  I feel this way for two reasons. First of all, I think that it will help children to retain what they learn for a much longer period of time.  The only real way for kids to absorb a lesson is to actually go home and repeat it as much as they possibly can.  And in the long run this kind of thing will lead to a lot more academic success. Secondly, I believe that homework can actually give children an opportunity to bond with their parents.  For example, I got a lot of daily homework when I was in elementary school. And I'd go home and do it with my mom and dad, and I'd ask them questions whenever I was having trouble. And in time we actually became really close.
+
+================================================================================
+
+--- Document 35 ---
+True Label: Human
+Model: human
+Text Length: 610 characters, 110 words
+Text: I disagree with the idea that people should always be truthful. First of all, telling a white lie is better in many situations. For example, when parents lie to their kids that Santa Claus exists, their children will behave well for the whole year because they want to receive good presents from Santa. In addition, the other person may not really want to hear your honest answer anyway. For instance, when an overweight girl asks a guy if she is fat, she may want to hear the other person say “No, you are skinny.” In situations like this, it is better to lie. Therefore, people should not always be truthful.
+
+================================================================================
+
+--- Document 70 ---
+True Label: Human
+Model: human
+Text Length: 486 characters, 95 words
+Text: I prefer to work at office for two reasons. First, it will be more efficient for me to work at office. Last week, I had a bad cough and I had to work at home. I found I couldn't concentrate on work because the environment was so comfortable that all I wanted to do was sleeping. Second, it will be helpful to work at office because I can discuss some problems with my colleagues directly. There is no doubt that in this way can I figure out the problem and finish the work more quickly.
+
+================================================================================
+
+--- Document 62 ---
+True Label: Human
+Model: human
+Text Length: 424 characters, 81 words
+Text: Personally, I would like to say that I like magazine most. There are a couple of reasons to name. The first reason I wanna say is there are a lot of funny stories in the magazine, so I can learn a lot of jokes and share them with my friends, which can improve my interpersonal and communication skills. The second reason is I can make friends with those who have the same love for magazines, and we can have a get-together. 
+
+================================================================================
+
+--- Document 12 ---
+True Label: Human
+Model: human
+Text Length: 496 characters, 91 words
+Text: Speaking of celebrations, there is one day of the year that is second to none in china, it is the first day of the year in lunar calendar, which is called the Spring Festival by most Chinese people. Even if you are indifferent with festive events, you can not resist the charm of a family reunion dinner which marks the defining feature of the Spring Festival. And during the dinner, family members make toasts for each other in order to wish for joy, peace, health and fortune for the next year.
+
+================================================================================
+
+--- Document 4 ---
+True Label: Human
+Model: human
+Text Length: 579 characters, 105 words
+Text: I believe that I will follow my interest. I'm not saying that studying a subject for job opportunities is wrong, it's just that I'm not that kind of person. Me myself want to be a scientist in the future, and following my own interests are rather important, because doing research can be tedious or frustrating in many situations, and my interests may be the only thing to keep me going on and on. If you are only driven by profit, it's likely that you will abandon your current subject once it seems not so profitable, and that's clearly not good for the development of science.
+
+================================================================================
+
+--- Document 18 ---
+True Label: Human
+Model: human
+Text Length: 452 characters, 78 words
+Text: in my opinion, it is my family members and friends who influence me most. The information provided by newspaper, TV, radio or other formats of media can just let us know what has happened and only equip us with knowledge, they are incapable of giving me spiritual satisfaction. Speaking of some issues, we need more specific suggestions. Family members and friends can offer us this kind of information and can give us adequate help to meet the issues.
+
+================================================================================
+
+--- Document 28 ---
+True Label: Human
+Model: human
+Text Length: 530 characters, 107 words
+Text: There is a notebook that means a lot to me. I've always loved reading and I started writing my own stories years ago. One day a friend of mine found the pile of paper I kept my stories on and asked me to let him read them. I was kind of reluctant but still a little glad that he found them, so I agreed. After few days he handed me my stories along with this notebook, telling me to keep writing and one day I may become a good writer. For that I was really grateful, and that notebook encouraged me to keep on writing ever since.
+
+================================================================================
+
+--- Document 49 ---
+True Label: Human
+Model: human
+Text Length: 852 characters, 137 words
+Text: I think that governmental regulations have the biggest impact on environmental protection. Compared to individual efforts, governmental regulations make citizens follow the law, rather than make good choices. For example, in Korea, if you don’t recycle properly, you can receive a fine. They provide all the bins and resources to make it easy for the public to make the right choice to recycle. Second, when the government steps in to make regulations, it also educates the public, which can lead to individuals going above and beyond for the environment. When the government introduces a new regulation, it will explain why they are doing it, which may have people think twice about before they throw garbage out the window of the car. For these two reasons, I believe that governmental regulations have the biggest impact on environmental protection.
+
+================================================================================
+
+--- Document 64 ---
+True Label: Human
+Model: human
+Text Length: 333 characters, 62 words
+Text: I would take them to a science museum, because I want my students to learn something from this experience and a science museum is the most motivating place to do that. Students are able to do a lot of cool things there like seeing the fossil that they've learnt about in class and what not, which is something they normally can't do.
+
+================================================================================
+

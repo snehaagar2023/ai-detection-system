@@ -1,0 +1,312 @@
+=== ARXIV_COHERE SAMPLES FOR GPTZER ===
+
+--- Document 1782 ---
+True Label: Human
+Model: human
+Text Length: 1811 characters, 260 words
+Text:   We present a new numerical code, ECHO, based on an Eulerian Conservative High
+Order scheme for time dependent three-dimensional general relativistic
+magnetohydrodynamics (GRMHD) and magnetodynamics (GRMD). ECHO is aimed at
+providing a shock-capturing conservative method able to work at an arbitrary
+level of formal accuracy (for smooth flows), where the other existing GRMHD and
+GRMD schemes yield an overall second order at most. Moreover, our goal is to
+present a general framework, based on the 3+1 Eulerian formalism, allowing for
+different sets of equations, different algorithms, and working in a generic
+space-time metric, so that ECHO may be easily coupled to any solver for
+Einstein's equations. Various high order reconstruction methods are implemented
+and a two-wave approximate Riemann solver is used. The induction equation is
+treated by adopting the Upwind Constrained Transport (UCT) procedures,
+appropriate to preserve the divergence-free condition of the magnetic field in
+shock-capturing methods. The limiting case of magnetodynamics (also known as
+force-free degenerate electrodynamics) is implemented by simply replacing the
+fluid velocity with the electromagnetic drift velocity and by neglecting the
+matter contribution to the stress tensor. ECHO is particularly accurate,
+efficient, versatile, and robust. It has been tested against several
+astrophysical applications, including a novel test on the propagation of large
+amplitude circularly polarized Alfven waves. In particular, we show that
+reconstruction based on a Monotonicity Preserving filter applied to a fixed
+5-point stencil gives highly accurate results for smooth solutions, both in
+flat and curved metric (up to the nominal fifth order), while at the same time
+providing sharp profiles in tests involving discontinuities.
+
+
+================================================================================
+
+--- Document 3917 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1003 characters, 159 words
+Text: 
+
+We propose a new method for minimizing the distortion in Gaussian layered broadcast coding with successive refinement. Our method is based on a low-complexity successive-approximation-register (SAR) algorithm that is used to minimize the distortion of the entire sequence in one go. We show that this method results in a significant reduction of the mean-square error (MSE) compared to the scheme that refines the code word by word. Our scheme is applicable to both coherent and non-coherent transmission. Furthermore, the proposed method can be used in a multi-user scenario. In this case, the algorithm is used to minimize the distortion of the received signal of one user, while the code words of the other users are regarded as noise. We show that the proposed method is particularly beneficial if the initial guess is close to the desired code word. Finally, the proposed method can be easily extended to the case where the transmission channel is a multiple-input multiple-output (MIMO) channel.
+
+================================================================================
+
+--- Document 221 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1143 characters, 191 words
+Text: 
+
+Reality of linear and angular momentum expectation values in bound states.
+We have performed a systematic investigation of the properties of bound states of the hydrogen molecular ion, with particular attention to the roles of linear and angular momentum. We show that the large majority of bound states of this system have their angular momenta aligned in the general direction of the total angular momentum of the system. This is in spite of the fact that the magnetic moments of the nuclei can, in principle, act as a source of pure orbital angular momentum. We show this by performing a statistical analysis of the orientation of the angular momentum in a large number of bound states. The most probable value of the total angular momentum in these bound states is found to be very close to the magnitude of the total angular momentum of the unbound system. In addition, the statistics of the linear momentum distribution in these bound states is found to be in agreement with the statistics of the bound state energy distribution, thus providing further evidence for the reality of the linear momentum expectation value in bound states.
+
+================================================================================
+
+--- Document 2135 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 751 characters, 127 words
+Text: 
+
+We consider the resummation of large logarithms in the $\gamma^* \pi^0 \to \gamma $ transition. We find that a significant suppression of the emission of large logs is obtained by a proper choice of the resummation parameter. In particular, we show that such a suppression is necessary in order to be able to describe the full dynamics of the evolution. This resummation strategy has been proposed and studied in the framework of the Landau-Ginzburg- Wilson (LGW) model, in the context of the $\pi ^0 \to \gamma $ transition. In this paper, we generalize this resummation strategy to the $\gamma ^* \pi ^0 \to \gamma $ transition. We show that the obtained suppression is necessary in order to be able to describe the full dynamics of the evolution.
+
+================================================================================
+
+--- Document 5224 ---
+True Label: Human
+Model: human
+Text Length: 1008 characters, 145 words
+Text:   Using the spin wave approximation, we study the decoherence dynamics of a
+central spin coupled to an antiferromagnetic environment under the application
+of an external global magnetic field. The external magnetic field affects the
+decoherence process through its effect on the antiferromagnetic environment. It
+is shown explicitly that the decoherence factor which displays a Gaussian decay
+with time depends on the strength of the external magnetic field and the
+crystal anisotropy field in the antiferromagnetic environment. When the values
+of the external magnetic field is increased to the critical field point at
+which the spin-flop transition (a first-order quantum phase transition) happens
+in the antiferromagnetic environment, the decoherence of the central spin
+reaches its highest point. This result is consistent with several recent
+quantum phase transition witness studies. The influences of the environmental
+temperature on the decoherence behavior of the central spin are also
+investigated.
+
+
+================================================================================
+
+--- Document 1168 ---
+True Label: Human
+Model: human
+Text Length: 1164 characters, 182 words
+Text:   The X-ray transient XMMU J174716.1-281048 was serendipitously discovered with
+XMM-Newton in 2003. It lies about 0.9 degrees off the Galactic Centre and its
+spectrum shows a high absorption (~8 x 10E22 cm^(-2)). Previous X-ray
+observations of the source field performed in 2000 and 2001 did not detect the
+source, indicative of a quiescent emission at least two orders of magnitude
+fainter. The low luminosity during the outburst (~5 x 10E34 erg/s at 8 kpc)
+indicates that the source is a member of the ``very faint X-ray transients''
+class. On 2005 March 22nd the INTEGRAL satellite caught a possible type-I X-ray
+burst from the new INTEGRAL source IGR J17464-2811, classified as fast X-ray
+transient. This source was soon found to be positionally coincident, within the
+uncertainties, with XMMU J174716.1-281048. Here we report data analysis of the
+X-ray burst observed with the IBIS and JEM-X telescopes and confirm the type-I
+burst nature. We also re-analysed XMM-Newton and Chandra archival observations
+of the source field. We discuss the implications of these new findings,
+particularly related to the source distance as well as the source
+classification.
+
+
+================================================================================
+
+--- Document 879 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1050 characters, 165 words
+Text: 
+We develop a dynamically coupled-channel model to study $\pi N$ scattering in the W $\leq$ 2 GeV Nucleon Resonance Region. The model includes the following channels: elastic $\pi N$, $\pi N$ quasi-elastic, and inelastic $\pi N$ with $\pi$ and $N$ exchanged. We consider the channels to be coupled in the $\langle \rangle$-space. The model is solved exactly and the results are presented as a sum over all the $\pi N$-Partners in the coupled-channel basis set. We show that the exact results for the $\pi N$ quasi-elastic and inelastic channels can be obtained as limits of the elastic $\pi N$ and inelastic $\pi N$ with $\pi$ and $N$ exchanged channels, respectively, as the strength of the coupling between the channels goes to zero. The $\pi N$ quasi-elastic and inelastic channels are further decomposed into the channels with $\pi$ and $N$ exchanged. The resulting coupled-channel amplitudes are compared with the results obtained from the single-channel basis-set. The effects of the hadron-mesh-validation on the results are also investigated.
+
+================================================================================
+
+--- Document 156 ---
+True Label: Human
+Model: human
+Text Length: 1023 characters, 161 words
+Text:   We revisit the problem of interplay between the strong and the Coulomb
+interaction in the charged-to-neutral yield ratio for $B {\bar B}$ and $D {\bar
+D}$ pairs near their respective thresholds in $e^+e^-$ annihilation. We
+consider here a realistic situation with a resonant interaction in the isospin
+I=0 channel and a nonresonant strong scattering amplitude in the I=1 state. We
+find that the yield ratio has a smooth behavior depending on the scattering
+phase in the I=1 channel. The same approach is also applicable to the $K {\bar
+K}$ production at the $\phi(1020)$ resonance, where the Coulomb effect in the
+charged-to-neutral yield ratio is generally sensitive to the scattering phases
+in both the isoscalar and the isovector channels. Furthermore, we apply the
+same approach to the treatment of the effect of the isotopic mass difference
+between the charged and neutral mesons and argue that the strong-scattering
+effects generally result in a modification to the pure kinematical effect of
+this mass difference.
+
+
+================================================================================
+
+--- Document 1657 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1247 characters, 205 words
+Text: 
+Accurate QCD predictions for heavy-quark jets at the Tevatron and LHC
+
+We present the first set of predictions, based on a next-to-leading order QCD calculation, for the heavy-quark jet cross section at the Tevatron and LHC. We consider the cross sections for heavy quarkonia (H), charmonia (D), and bottomonia (B) production in association with a jet, and for the direct production of heavy quarks (H, Z, W). We find that the heavy-quark jet cross section is small compared to the standard jet cross section, but has a large component of intermediate-pT jets with H and D production, and a small but non-zero contribution to the high-pT tail with H, D, and B production. We evaluate the production cross section of a heavy-quark jet in the context of QCD, and compare it to the latest theoretical and experimental results. We find good agreement with the available data, and an improvement over the next-to-leading order prediction of Ref. [hep-ph/0609105]. We also evaluate the heavy-quark jet cross section in the forward region, and find a large forward-boost factor which is in agreement with the data. We predict a small though non-zero heavy-quark jet cross section at the LHC, and evaluate its contribution to the total jet cross section.
+
+================================================================================
+
+--- Document 323 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1114 characters, 178 words
+Text: 
+We present results of a search for colour reconnection in events with two or more jets at LEP-2, using the DELPHI detector. We use the distribution of jet pairs with significant invariant mass, which is sensitive to the strength of the underlying colour field, in events with no charged lepton, to place upper limits on the reconnection rate. The limits are consistent with the expectations from the colour-flavor-locked-in model, in which the only significant reconnection process is between quarkonia and pseudosymmetric particles. The model does not have to be adjusted to fit the data, despite the large variation in the jet masses, the large number of jets produced, and the significant number of events with two jets of the same flavor. We also present a search for events with three or more jets, and find no evidence for significant colour reconnection. We discuss the implications for the quarkonia-pseudosymmetric-dibaryon mechanism of colour reconnection, and for the mechanism of strong colour fields, and present a description of the event selection and the results in the form of tables and figures.
+
+================================================================================
+
+--- Document 5302 ---
+True Label: Human
+Model: human
+Text Length: 1790 characters, 259 words
+Text:   It is well known gravitational lensing, mainly via magnification bias,
+modifies the observed galaxy/quasar clustering. Such discussions have largely
+focused on the 2D angular correlation. Here and in a companion paper (Paper II)
+we explore how magnification bias distorts the 3D correlation function and
+power spectrum, as first considered by Matsubara. The interesting point is: the
+distortion is anisotropic. Magnification bias preferentially enhances the
+observed correlation in the line-of-sight (LOS) orientation, especially on
+large scales. For example at LOS separation of ~100 Mpc/h, where the intrinsic
+galaxy-galaxy correlation is rather weak, the observed correlation can be
+enhanced by lensing by a factor of a few, even at a modest redshift of z ~
+0.35. The opportunity: this lensing anisotropy is distinctive, making it
+possible to separately measure the galaxy-galaxy, galaxy-magnification and
+magnification-magnification correlations, without measuring galaxy shapes. The
+anisotropy is distinguishable from the well known distortion due to peculiar
+motions, as will be discussed in Paper II. The challenge: the magnification
+distortion of the galaxy correlation must be accounted for in interpreting data
+as precision improves. For instance, the ~100 Mpc/h baryon acoustic oscillation
+scale in the correlation function is shifted by up to ~3% in the LOS
+orientation, and up to ~0.6% in the monopole, depending on the galaxy bias,
+redshift and number count slope. The corresponding shifts in the inferred
+Hubble parameter and angular diameter distance, if ignored, could significantly
+bias measurements of the dark energy equation of state. Lastly, magnification
+distortion offers a plausible explanation for the well known excess
+correlations seen in pencil beam surveys.
+
+
+================================================================================
+
+--- Document 2611 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1635 characters, 264 words
+Text: 
+
+We unify the mathematical structures of general relativity and the standard model in a formalism that uses the tools of geometric and canonical quantization. We show that the resulting Hamiltonian system has a natural description as a covariant theory on a flat background. This is in contrast to the approaches that use the path integral or the gauge invariance of the relativistic limit of the standard model. Our method avoids the common misconceptions that arise in this context, such as the notions of a background-independent formulation of general relativity or a geometrically groomed standard model.
+
+Our formalism reveals that the structure of the resulting Hamiltonian system is almost the standard model, with an additional scalar field that plays the role of the metric tensor in general relativity. The metric field is a dynamical variable that enters all the non-vanishing fermionic fields'Hamiltonians as a covariate. The only exception is the Hamiltonian of the dilaton, which is a function of the dynamical variable metric only. The masses of the fermionic fields, on the other hand, are functions of the metric and the dilaton. Our main results are the following: (i) the metric field is an independent variable of the dilaton and (ii) the dilaton is an adjoint scalar field, in the sense that it is the only scalar field that can be constructed as an inner product of other fields.
+
+We comment on the relation of our results to the idea of a geometrically groomed standard model and to the path integral approach. We also discuss the problem of defining a background-independent formulation of general relativity.
+
+================================================================================
+
+--- Document 811 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1171 characters, 200 words
+Text: 
+
+We develop a staggered heavy baryon chiral perturbation theory (SCPT) within the framework of the effective two-meson theory. The staggered CPT (SCT) is applicable to the case of strong external fields. In this theory the chiral symmetry is not protected by a condensation mechanism as is the case for the conventional CPT. The basic idea of the SCT is to take into account the two different contributions to the evolution of the quark fields, corresponding to the quark and antiquark charged currents, in a staggered way. The SCT contains two additional parameters, which can be fixed from the beginning or be allowed to vary, and the evolution of the quark fields is given in terms of the two integral equations for the quark and antiquark charged currents. The SCT has a good physical basis, is consistent with the CPT, and in a certain range of the parameters it gives an improvement of the description of the strong interaction compared to the CPT. We also compare the SCT with the standard CPT in the limit of small meson masses and small external field strengths, and show that the SCT gives a slightly better description of the strong interaction in this limit.
+
+================================================================================
+
+--- Document 393 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1063 characters, 189 words
+Text: 
+
+We introduce a notion of a solution of a normalized Ricci flow on a 4-manifold. We show that such a solution is uniquely determined up to a constant multiple. We show further that such a solution is smooth (for smooth initial data) and that the set of all such solutions is a linear subspace of the space of all continuous functions on the 4-manifold. We then show that this subspace is closed under the addition of smooth functions, and we show that the intersection of this subspace with the space of all functions smooth up to a constant multiple is a subspace of constant functions. We show that every solution of a normalized Ricci flow on a 4-manifold is a linear combination of smooth functions and constant functions in this fashion. We show further that the set of all such solutions is a closed subset of the space of all continuous functions on the 4-manifold. We show finally that every solution of a normalized Ricci flow on a 4-manifold has a special form: it is a function of the principal parts of the Ricci flow, integrated over the 4-manifold.
+
+================================================================================
+
+--- Document 3593 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1315 characters, 221 words
+Text: 
+
+We present a detailed study of the CoRoT primary target HD 52265 based on a new observational campaign using the 1.5 m telescope of the Calar Alto Observatory. We have derived the parameters of aAskapStars5 model of this star by fitting the photometric and radial velocity data available in the literature. We have compared this model with other models found in the literature and with the observations obtained with the 1.5 m telescope of the Calar Alto Observatory. The comparison of the observations with the predictions of the different models has allowed us to test the models and to choose the best one. The star HD 52265 has been observed in a photometric campaign with the 1.5 m telescope using two different instruments, i.e. ISIS and FEROS, in two different photometric bands, i.e. the visual and the near-infrared, in order to get a more complete description of the star's atmosphere. We have derived the parameters of the star in both bands and compared them with the predictions of the models. We have found that the visible photometry is well described by the model AskapStars5, while in the near-infrared the star is a little bit cooler and a little bit bigger than in the visible. This finding supports the hypothesis that the star has a deceptive photosphere, with a shallow temperature gradient.
+
+================================================================================
+
+--- Document 2638 ---
+True Label: Human
+Model: human
+Text Length: 1788 characters, 277 words
+Text:   We report optical photometry and optical through mid-infrared spectroscopy of
+the classical nova V1186 Sco. This slowly developing nova had an complex light
+curve with multiple secondary peaks similar to those seen in PW Vul. The time
+to decline 2 magnitudes, t$_2$, was 20 days but the erratic nature of the light
+curve makes determination of intrinsic properties based on the decline time
+(e.g., luminosity) problematic, and the often cited MMRD relationship of Della
+Valle and Livio (1995) fails to yield a plausible distance. Spectra covering
+0.35 to 35 $\mu$m were obtained in two separate epochs during the first year of
+outburst. The first set of spectra, taken about 2 months after visible maximum,
+are typical of a CO-type nova with narrow line emission from \ion{H}{1},
+\ion{Fe}{2}, \ion{O}{1} and \ion{He}{1}. Later data, obtained between 260 and
+380 days after maximum, reveal an emerging nebular spectrum. \textit{Spitzer}
+spectra show weakening hydrogen recombination emission with the emergence of
+[\ion{Ne}{2}] (12.81 $\mu$m) as the strongest line. Strong emission from
+[\ion{Ne}{3}] (15.56 $\mu$m) is also detected. Photoionization models with low
+effective temperature sources and only marginal neon enhancement (Ne $\sim$ 1.3
+Ne$_{\odot}$) are consistent with these IR fine-structure neon lines indicating
+that V1186 Sco did not occur on a ONeMg white dwarf. In contrast, the slow and
+erratic light curve evolution, spectral development, and photoionization
+analysis of the ejecta imply the outburst occurred on a low mass CO white
+dwarf. We note that this is the first time strong [\ion{Ne}{2}] lines have been
+detected so early in the outburst of a CO nova and suggests that the presence
+of mid-infrared neon lines is not directly indicative of a ONeMg nova event.
+
+
+================================================================================
+
+--- Document 2187 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1218 characters, 208 words
+Text: 
+
+A high-precision astrometry on the VLT/FORS1 at time scales of few days
+
+We present high-precision photometry and astrometry of 7995 stars observed with the VLT/FORS1 over a time scale of a few days. The observations were made in service mode with a typical seeing of  ∼ 1.5'' during a period of very good observing conditions, with more than 80% of the time lost due to clouds. The catalogue contains 6 governmental stars, 618 planets, 891 stars brighter than R = 11, and 5408 fainter stars, for a total of 6988 stars. The achieved precision is  ∼ 0.8'' for the stars brighter than 11th magnitude and  ∼ 1.5'' for the fainter stars. We find a non-systematic difference of  ∼ 1'' between the north and south sides of the VLT/FORS1 field. The use of an image derotator to remove the seeing-induced image motion is discussed. We show that the precision can be significantly improved by taking the background emission from the reference stars into account. We present a simple method to derive a 1-D correction map for the non-linearity of the guiding algorithm, and we evaluate the effect of this non-linearity on our astrometry. We find that this correction has only a small effect on the precision of our astrometry.
+
+================================================================================
+
+--- Document 5351 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1158 characters, 210 words
+Text: 
+We study the generalized $B\to K^* \rho$ reaction within and beyond the Standard Model, in an attempt to provide some theoretical context to the $B\to K \pi$ puzzle. We show that the generalized $B\to K^* \rho$ reaction is entirely consistent with the Standard Model, given that the $rho$ meson is a non-Standard Model pseudoscalar meson with a mass much smaller than the Standard Model would predict. We then discuss a number of different ways the $B\to K^* \rho$ reaction can be extended beyond the Standard Model. In particular, we consider a new $B$ meson that is a gauge boson, and that is charged under a new symmetry group $G$. We show that this $B$ meson can be consistently produced in the $B\to K^* \rho$ reaction, and that the new $B$ meson can be made to be a close relative of the Standard Model $B$ meson. We also show that this new $B$ meson would be lighter than the Standard Model $B$ meson, in agreement with the $B\to K^* \rho$ data. We also propose that this new $B$ meson could be related to the $B\to K \pi$ puzzle, in the sense that the new $B$ meson could explain the $B\to K \pi$ data without any new quark flavors or quark charges.
+
+================================================================================
+
+--- Document 319 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1102 characters, 187 words
+Text: 
+
+We investigate the evolution of the real estate market in Las Vegas from January 2003 to December 2008, a period that includes the real estate bubble that burst in 2008. We consider three broad questions. First, was the real estate market in Las Vegas adequately modeled by the CCIM (Chicago Center for International Business) model of real estate analysis, which is widely used by real estate professionals in the industry? Second, were there any seasonal patterns in the real estate market that could be exploited to make more accurate predictions? Third, was there any way to predict the turning point of the real estate bubble with technical analysis, and if so, what would be the signs that the bubble was about to burst? Our main results are that the CCIM model does not adequately describe the real estate market in Las Vegas, that there are some seasonal patterns that can be exploited to make more accurate predictions, and that although it is impossible to predict the turning point of the real estate bubble with technical analysis, there are some signs that the bubble was about to burst.
+
+================================================================================
+
+--- Document 167 ---
+True Label: AI
+Model: command-xlarge-nightly
+Text Length: 1370 characters, 202 words
+Text: 
+
+Spline Single-Index Prediction Model: Theory and Applications
+
+This paper presents a new prediction model, called the spline single-index prediction model, for solving nonlinear regression problems with interval-censored or interval-greedy data. The model has two stages. In the first stage, a B-spline basis function with three parameters is constructed to represent the nonlinear predictor. In the second stage, a single-index model with three parameters is used to describe the relationship between the response and the linear combination of the basis functions. The model is derived from a composite hypothesis that consists of a linear hypothesis and a nonlinear hypothesis. The proposed model is more flexible than the commonly used regression model with B-spline basis functions and is shown to have several advantages, such as accommodating of large amount of information from the data, providing a direct interpretation for the regression coefficients, having a closed-form solution for the optimal prediction, and being applicable to a wide variety of data sets. We derive the statistical properties of the model and discuss some practical considerations for parameter estimation. We also show how the model can be used for interval-censored and interval-greedy data sets. simulation studies and real data analysis are used to illustrate the proposed method.
+
+================================================================================
+

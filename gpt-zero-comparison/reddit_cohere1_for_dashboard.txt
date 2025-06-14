@@ -1,0 +1,321 @@
+=== REDDIT_COHERE SAMPLES FOR GPTZER ===
+
+--- Document 640 ---
+True Label: Human
+Model: human
+Text Length: 7941 characters, 1306 words
+Text: The issue of Himiko not being mentioned in Japanese sources has less to do with purposeful omission and more with issues of how the Japanese began to keep records and the introduction of Buddhism to country in around the 6th century.
+
+The kind of wide spread literacy and record keeping that is present in Korea and China at the time are not present in Japan. Chinese sources (The Chronicle of Wei) talk about interaction with the Kingdom of Wa (a somewhat derogatory term meaning "Kingdom of Dwarves"), which ranges anywhere from around the 200 BCE to 100 CE depending how one interprets the Chinese dating system. Japan of this time had been in contact with the mainland for hundreds of years, and imported many experts to assist with rice growing and irrigation techniques. Also present were scribes, but who almost exclusively wrote in Chinese. Until about the 6th century CE, the Japanese did not generally use Chinese characters for the purpose of government or personal writing. It's not until widespread adoption of Buddhism and the adoption of the Taika reforms that extensive record keeping, especially histories and government business, begins to occur with any regularity or in an official manner. So while there existed, and may still exist, documents which describe Himiko from a contemporary Japanese perspective, these would not be any sort of official history or go beyond a personal diary or letter.
+
+As part of creating a legitimacy for his new government under the Taika reforms, and to further mimic a Tang Chinese style of government, Prince Shotoku commissioned the writing of the Nihon Shoki as a dynastic history of his Yamato family line. This history is the primary place in which the family connection between the Emperor and the Sun Goddess is codified, the various mythos of the creation of the Kami and the islands of Japan are collected, and is essentially the earliest document available that describes any time prior to the 6th century from a Japanese perspective. The document is also concerned with the succession of the Emperor from Amaterasu, and places the first "grandson" of Amaterasu as Emperor Jimmu. Jimmu, or at least the man we think was Jimmu, probably lived around 350 CE, around 200 years after Himiko would have lived. To further complicate things, the Nihon Shoki was not translated from Tang dynasty Chinese into Japanese until the 18th century by a man named Norinaga. His translation of the Nihon Shoki is arguably the ultimate work on the subject. Yet, it is still a translation, and possibly contains errors or interpretations of the translator. 
+
+This is to say, after all this ramble, that there is no reliable source for early Japanese history. Documents like the Chronicles of Wei are the only insight aside from archeological evidence at early Japanese culture and life. The Nihon Shoki is first and foremost a dynastic history, and is designed to aggrandize the Yamato. The most important way this is done is through Amaterasu and the connection the Kami. This connection to the Sun Goddess is congruent with the centralization of authority around the High Priestess mentioned in the chronicles and the evolution of Japan's political structure from the Yayoi period into the early Heian.
+
+Within the social structure of early Japan, clan was the most important distinction between various groups. These clans tended to be collected around a professional class or a social function, and split between Uji clans (mostly aristocratic, military, and priestly families) and Be (professional classes, such as blacksmiths, potters, weavers etc.) Most Be were not as formally organized as Uji. At the head of each clan would be an Uji-gami, or a family diety/spirit (Uji - Clan, Gami = Kami) whose worship would be directed by the head of the family. This is where Himiko as a "Sun Princess" is important. If Himiko's family was large and powerful, and worshiped the embodiment of Amaterasu, clans who were subservient to them (either for social, religious, or military reasons) would gain status through their association with Himiko's Uji-Gami. This transmission of power, from God, to Emperor/High Priestess, to vassal Clan is the foundation for all political legitimacy in Japan until the end of WW2, and even after the Emperor was stripped of his Godhood he was placed as a quasi-religious symbol of Japan's "Unity" in the first line of the post-war constitution. This is how important this sense of continuance from Japan's mythical roots is even today. Another thing to consider was the purpose of some of the Taika Reforms that accompanied this effort to legitimize this new style of government. The reforms introduced standardized taxation, the mustering of armed forces, and a re-organziation of the government to an extremely bureaucratic level. But some of the most important reforms are those around how titles are appointed, what titles now existed, and the methods of bestowing titles and badges of office. We can assume from the detail and specificity of this part of the decrees that the ability for any major family to assign themselves title was a becoming problematic. Association with Himiko may have introduced uncertainty into the new order, but this is admittedly speculation. However, there may be something to be said about the events that led up to the reforms themselves. Without getting too deep into it, the introduction of Buddhism and other benefits of the Tang (literacy and bureaucracy especially) had been met by significant resistance by the entrenched priest class Clans, who felt that Buddhism was an attack on their Shinto values, the Gods, and the land itself (which is all sort of the same thing?). The synthesis between Buddhist and Shinto practice is in part a result of the political negotiation and conflict of this period.
+
+What does this mean for Himiko? It's possible she was omitted because making mention of the previous system political legitimacy may not have been good politics. It's possible she was forgotten, since she likely lived around 400-500 hundred years before the Nihon Shoki was written. I've even heard some discussion in a seminar I attended that posited Himiko (or at least SOME High Priestess) has been conflated with Amaterasu in the Nihon Shoki as Jimmu's relative. This is an interesting theory, but regrettably has no real way of being proven. It's even possible in this new patriarchal Confucian society that Shotoku was trying to build it would be unacceptable to pay deference to a Queen (though it is known he adored his mother, the Empress Suiko, this doesn't always translate elsewhere). 
+
+**TLDR: The most likely reason is that by the time any one bothered to write anything down, Himiko was no longer relevant to who they thought was important.**
+
+EDIT: It has been pointed out quite correctly that I have forgotten that Himiko is mentioned a few times in the Nihon Shoki and is possibly conflated with the Empress Jingu. My specialty is in the re-opening of the country period through to WW2, so I apologize if I led anyone astray. However, I believe my point still stands that Himiko isn't really understood by those writing the Nihon Shoki and was not likely relevant to their goals when writing it.
+
+EDIT: Thank you for the Gold! I will use it as inspiration to finally do a write up about the crazy 1860s and the Shinsengumi. I have also edited a few points because I accidentally forgot a word.
+
+[Relevant Reading]
+
+Sansom, George B. *Japan - a short cultural history*. Tokio: Tuttle, 1983. 
+
+Hall, John Whitney. *Japan from prehistory to modern times*. New York: Delacorte Press, 1970.
+
+Muraoka, Tsunetsugu. *Studies in Shinto thought*. Tokyo: Japanese National Commission for UNESCO, 1964. 
+
+Brown, Delmer M., Kozo Yamamura, John Whitney Hall, Marius B. Jansen, Peter Duus, Donald H. Shively, and William H. McCullough. *The Cambridge history of Japan*. Cambridge: Cambridge University Press, 1993.
+
+================================================================================
+
+--- Document 581 ---
+True Label: AI
+Model: cohere
+Text Length: 644 characters, 118 words
+Text: 
+
+During the Roman Empire, the most common form of headgear was the Montefortino helmet. This was a simple conical affair of iron, possibly with cheek pieces, fastened by a couple of hinges and a chinstrap. The outer surface was often covered in a thin sheet of bronze, and perhaps had an inscription, or an embossed design.
+
+A skull found at a Roman fort in the German province of Lower Rhine, now in the British Museum, shows signs of an injury caused by a piercing weapon, probably an arrow, and has a groove on its surface that may have been caused by a stroke from a sword. So perhaps Roman helmets were not as protective as we might like.
+
+================================================================================
+
+--- Document 1693 ---
+True Label: AI
+Model: cohere
+Text Length: 469 characters, 80 words
+Text: 
+Constantinople was supplied by the grain dole, which is the distribution of free or subsidized food to the population of a city. The grain dole was a major factor in the growth and decline of the city's population. When Egypt was lost to the Islamic conquest, the population of Constantinople plummeted from 500,000 to 50,000. This was due to the loss of the Egyptian grain supplies. The city recovered to 500,000-800,000 in the 9th/10th century due to the grain dole.
+
+================================================================================
+
+--- Document 1733 ---
+True Label: AI
+Model: cohere
+Text Length: 502 characters, 95 words
+Text: 
+Cuckold is an old word for a man whose wife is romantically involved with someone else. The word comes from the cuckoo, a bird that lays its eggs in other birds' nests. The male cuckoo cares for the young as if they were his own. In the 16th century, English men began using cuckold to refer to a man whose wife had slept with another man. Eventually, the word came to describe any man whose wife was unfaithful to him. The word is still in use today, though it is considered offensive by many people.
+
+================================================================================
+
+--- Document 3700 ---
+True Label: Human
+Model: human
+Text Length: 1540 characters, 268 words
+Text: It's important for you to realize that Energy is not a thing. It's not a material entity, not something you can look at a microscope and say: "here, look, that is energy!". Energy is a number, nothing more than that! There is matter, like electrons, photons, quarks and so on... and all this matter has labels, such as mass, spin and momentum, and energy is just another label!
+
+Why do we need this number? It turns out that the universe was kind enough to give us conservation laws, and it turns out that all of physics can be written in terms of these conservation laws. Whenever there is a continuous symmetry in the laws of physics, we can derive one number that is conserved because of this symmetry.
+
+Since by definition, the laws of physics are invariant under time translations, we have a conserved quantity under this symmetry, which is nothing more than energy. So energy is special, because it's *the number that globally never changes*. 
+
+So, in a more ELI5 way to put it: there is matter: photons, electrons, quarks, apples, trees, planets, etc etc. And we want to describe the world in terms of how this matter interacts. It doesn't matter if you're writing a theory of apples falling from trees or particle collisions, and the end of the day you need to find good quantities in order to parametrize your processes. The best quantities are always those that "change less", because this invariance allows you to write "final variables" in terms of the "initial ones". So that's why we have energy, simply because of accounting.
+
+================================================================================
+
+--- Document 2604 ---
+True Label: Human
+Model: human
+Text Length: 1446 characters, 256 words
+Text: The oil doesn't exist underground in caverns that would otherwise be empty if it wasn't for the oil. Instead of thinking of large empty pockets, think of a wet sponge, where the sponge is rock and it's "wet" with oil. 
+
+But also remember that the oil and gas held underground is under great pressure. It is this pressure that allows the oil to be extracted, but when the pressure is relieved by removing the oil these smaller pockets don't necessarily remain empty, as they're often filled water seeping in from the surrounding rock. And even when they are not filled back in with water from surrounding rock, oil extraction often leaves about 13% porosity, which is about the same as modern concrete. 
+
+And it's not just water that can remain in the well: when an oil well is considered spent, and no more oil can be extracted (using traditional techniques), there may remain as much as 90% of the original deposit left in the ground. Because of the large amount of oil that can be left in an otherwise "spent" well, there are techniques for getting out more of the oil, which involves pumping fluids (mostly water) into the well, increasing the pressure and allowing more oil to be extracted. But this obviously displaces oil with water, and so the "wet sponge" never really dries out. 
+
+So while oil extraction often leaves a well less dense than it was to begin with, it's not a whole lot less dense...it's still mostly rock all the way down!
+
+================================================================================
+
+--- Document 466 ---
+True Label: Human
+Model: human
+Text Length: 2145 characters, 372 words
+Text: The shorter answer is that it kind of depends on what time period. Throughout most of the Middle Ages though, it wasn't mandatory at all. Mandatory church attendance is a Reformation thing -- Calvin supposedly was the first to put pews/ seats into his churches in Geneva so it would be easier to spot who was there and to make it socially harder for people to get up and leave in the middle of the service. Until then -- and this is difficult to envision nowadays -- the naves of churches were nearly empty. There was no seating at all. Services would be going on at the main altar or in side chapels and the rest of the church would either be (a) empty, or (b) filled with people just milling around. Pilgrims might be visiting shrines, beggars would be asking for charity, townsfolk would be conducting business or just chatting with others or looking on curiously at what was going on at the altars around them -- in a language they didn't speak (Latin), with the priests having their backs turned to the crowd and saying the mass softly but intently to no one in particular. 
+
+Through most of the Middle Ages, services were held by and for those who had a connection to God (priests, other religious, certain parts of the high aristocracy, etc.). The rest of the population was unimportant to the process of the mass - the conversation was between God and those who could talk to him and services were performed, like under the Israelites in the Old Testament, so that God would look kindly on the whole community. An individual's relationship with God was irrelevant, inconceivable, until the late Middle Ages (at the earliest). 
+
+[This is an excellent collection of primary sources](_URL_0_) that will get you started on learning more about the actual practice of medieval Christianity. 
+
+**[Edit]**: Some have picked up on my saying that people were "milling around" in the church. I didn't mean to be flip there but simply to suggest that people would be watching what's going on, talking with neighbors, chasing children who weren't paying attention, praying on their own at shrines, etc. Simply that there were a variety of activities.
+
+================================================================================
+
+--- Document 1824 ---
+True Label: Human
+Model: human
+Text Length: 2384 characters, 425 words
+Text: Think there was a lot of skepticism towards Cardinal Rodrigo Borgia on account of the fact he had many children. However, it wasn’t that unusual for cardinals and even Popes to have fathered children even though they were men of the clergy. Pope Alexander VI was by no means the first the pope who had sons and daughters. His predecessor Pope Innocent had also fathered children prior to becoming Pope. Being a clergy member and having children is not really something that goes hand in hand, but it came to be accepted or not regarded as important if the clergy was of “good faith.” But there were many who strictly opposed such behavior and thought being a priest or cardinal was not compatible with being a father to children. So I think Alexander having children certainly made him enemies and created differences with rivals, still it is likely a lot of his rivals just didn’t like him regardless of him fathering children, but the fact that he had so many children made them despise him even more. Alexander was notorious for being a womanizer, by no means the only one, he was someone who had a lot of sex while being a cardinal and also when he was Pope. 
+
+When it comes to Lucrezia and Cesare in the matter of incest, there is no clear evidence of such behavior. Most of these accusations come from Pope Alexander’s successor and rival who was former cardinal Giuliano Della Rovere, Pope Julius II. Julius despised Pope Alexander, and is the primary person who has made the assertions that Alexander, Cesare and Lucrezia was involved in a triangle affair. It has to be said, there were many rumors going around about a possible incest affair between Lucrezia and Cesare. Where there is smoke there is fire they say. It is impossible to know for sure, what we do know is that the Borgias were hated by a lot of people and rumors like this might have been made up or exaggerated. Still, if there ever was a relationship beyond brother and sister between Cesare and Lucrezia I find it very hard to believe Alexander was involved. After all he loved woman, that is well known, but having sex with his daughter I think is a step too far for even him. This is a general overview, there are a few articles out there that might give a better description of the notorious Borgias of the Renaissance.
+
+I suggest reading this article
+ _URL_1_
+
+And maybe listen to this podcast:
+
+_URL_0_
+
+================================================================================
+
+--- Document 2264 ---
+True Label: Human
+Model: human
+Text Length: 1318 characters, 223 words
+Text: I've done electroshocking fish for research purposes.  You have a backpack and you run electricity through the water to zap fish.  
+
+The thing is, you can't really do electroshocking in _salt_ water.  It's too conductive.  Electroshockers work because the electricity passing through the water essentially "short circuits" through fish, zapping them.  Fish are more conductive than fresh water, but salt water is more conductive than fish.  So the electricity just goes around them.  
+
+So lightning isn't going to have a huge effect on marine life for that reason alone.
+
+EDIT: For clarity, a fish close enough to where the lightning hits will still feel the effects, and could even be killed if it was really close.  But as the distance increases the effects will drop off relatively quickly, compared to a similar strike applied to freshwater.  
+
+I attempted to find some papers that could provide some better numbers but came up empty. It seems to be a little-studied area.
+
+EDIT EDIT:  Also, _you_ obviously shouldn't be out swimming in the ocean in a lightning storm.  For one thing people tend to stick out of the surface of the ocean and no amount of salt water is going to help if you get hit directly.  Or if lightning hits nearby, a little shock that merely stuns a fish temporarily could cause you to drown.
+
+================================================================================
+
+--- Document 1756 ---
+True Label: Human
+Model: human
+Text Length: 2827 characters, 460 words
+Text: I can cover Hungary. First of all, here's a recent interview with the authors of the book Sex and Socialism _URL_0_:
+
+ >  Forgattak Magyarországon szexfilmet az előző rendszerben?
+
+ >  Nem tudunk róla, hogy forgattak volna, inkább csak erotikus fényképekről meséltek. Pest környékén 1968 után voltak értelmiségi kommunák, de nem hiszem, hogy itt filmet forgattak volna. Terjeszteni sem merték volna.
+
+ >  Did they shoot any sex movies in the socialist era?
+
+ >  As far as we know, no. We heard some tales about erotic photos. There were some communes around Pest after 1968 but I seriously doubt they shot any movies there. They wouldn't have dared to distribute it anyways.
+
+So that's that. 
+
+But there's more. Film stock was near impossible to get. Something like the famous Zaprauder movie where anyone could just stand on the street and shoot things were absolutely impossible, you couldn't get a camera and more importantly, film negative was in very short supply. Check this interview _URL_1_ about how the classic One And A Half Million Steps In Hungary series came to be in 1977:
+
+ >  Ő akkor az Ismeretterjesztő Főszerkesztőségen dolgozott, én pedig az Ifjúsági Osztályon [...] a forgatáshoz 16 ezer méter színes negatív filmet kértünk, ami akkoriban a legdrágább volt, és az egész főszerkesztőségnek nem volt ennyi az éves keret
+
+ >  He used to work at the Education Department and I've worked at the Youth Department [...] and we asked 16 000 metres of color negative film and [in 1977] this was the most expensive and the whole department didn't have that much yearly quota.
+
+Later the interview mentions one minute required 10 metres of film stock ("A kicsiben csak 30 méter anyag ment, tehát csak hárompercnyi anyag" -- "the little [camera] only had a 30 meter long [material] aka three minutes worth") which means the entire Youth Department of Hungarian state television had less than 26 hours worth of film stock allocated for an entire year! 
+
+As to pornography itself, check _URL_2_ this article which details -- alas in Hungarian -- nakedness, sexuality in socialist Hungary, especially this part:
+
+ >  A televízióban a filmeken kívül Árkus József Parabola című műsorában „kínáltak” a férfi nézőknek meztelen nőket – pucér férfiakról szó sem lehetett.
+
+ >  The television "offered" naked women in some movies and Jozsef Arkus' Parabola but naked men were out of question.
+
+And this was Hungary where the leadership tried to create at least the semblance of "modern" society.  For example, in 1973 sexual education was added to the school curriculum and in 1978 a book with the title Open Marriages - Modern Lifestyle has appeared. But pornography was banned and the border guard have confiscated any and all pornographic materials they found (which of course led to the smuggling of pornographic magazines).
+
+================================================================================
+
+--- Document 4946 ---
+True Label: Human
+Model: human
+Text Length: 1009 characters, 186 words
+Text: It's a different layer of skin that is normally never exposed unless you get cut or something to slice open your skin. Basically your skin is made up of 5 layers of skin cells that work their way up to the surface from the deepest layer. The top layer of skin is actually just a bunch of smaller layers of dead skin cells, which helps the skin withstand abrasion. The nails are just a modified form of the top layer of skin (the same type that covers your whole body). So when it gets removed, the middle layers of skin that lie below it are exposed, and are extra sensitive as a result. 
+As far as it's purpose, it houses a lot of sensory organs that give us information about things like touch, vibration, body position, etc. It also produces new epithelial (skin) cells that I believe will eventually be modified and become a fingernail (not 100% sure about that last part). 
+
+Hope this helped! Anyone else with more knowledge feel free to correct me or add on! 
+
+Edit: forgot to address the purpose of it.
+
+================================================================================
+
+--- Document 792 ---
+True Label: Human
+Model: human
+Text Length: 2918 characters, 451 words
+Text: In short, I would argue that yes, Confederates did see slavery lasting inevitably. From our perspective, slavery does seem to be profoundly anti-modern, both in light of industrialization and emancipation. But by the 1860s, the extent of these processes was far from obvious. Indeed, slave owners in the mid-nineteenth century constructed their own version of modernity that had slavery at its core. 
+
+I think you'll find that because of the immediate distraction that was the Civil War, there were fewer articulations of how southerners imagined slavery playing out in the future than one might expect (please prove me wrong, though). However, in the mid-nineteenth century, slave owners' imagined future involved the continual expansion of their slave system. Pro-slavery forces in the 1850s supported filibusters, or non-state military actions, against Cuba and Nicaragua with the hope that they could incorporate these territories into the United States and thereby keep expanding and strengthening the American slave system. To a similar end, by the late 1850s, many southerners schemed to reopen the slave trade. Far from being in a state of decline, southerners perceived the slave system as vibrant. 
+
+In the historical imagination of the southerners, slavery was both a natural and Godly way of existing. It occupied a place within a Christian eschatology that emphasized the importance of order and peace to the second coming of Christ. In that sense, they expected that slavery would last until Christ returned. 
+
+On the other hand, the forces of antislavery, many southerners believed, were aligned with the forces of the antichrist, or otherwise a generally disorganizing influence. For example, in an 1861 pamphlet called *Slavery, a divine institution*, a southerner named J.B. Thrasher traced a genealogy of antislavery back to the French Revolution (then widely acknowledged to be a barbaric and dangerous event -- Thrasher attributed anti-slavery to "the Jacobin clubs of France, during the bloody reign of Robespierre, in which the very dregs of society got possession of the government."), the Haitian Revolution, disorganizing parties in England and New England, before arriving in Abraham Lincoln's dangerous brain. In this version of history, it was actually the abolitionists who were backwards, barbaric, and anti-modern. By attempting to destroy slavery, abolitionists were attempting to subvert a natural order, and return mankind to a state of brutality. The course of history, to southern slave owners, was on the side of slavery.
+
+Edit: to add a few sources for further reading on this topic:
+
+* Walter Johnson, *River of Dark Dreams* (2013).
+
+* Matthew Karp, "'This Vast Southern Empire': The South and the Foreign Policy of Slavery." Ph.D. dissertation, University of Pennsylvania, 2011.
+
+* J.B. Thrasher, *Slavery, a divine institution* (Port Gibson, Miss., 1861), above quote on p. 5.
+
+================================================================================
+
+--- Document 363 ---
+True Label: AI
+Model: cohere
+Text Length: 806 characters, 131 words
+Text: 
+The last ten years have seen exciting new discoveries that have the potential to transform our understanding of Roman history. One of the most significant is the discovery of a Roman temple complex in Lejre, Denmark, which has been dated to the 1st century AD. This discovery challenges the traditional view of Roman expansion in the Iron Age, as it suggests that the Romans may have had a presence in northern Europe much earlier than previously thought. Another important discovery is the identification of a Roman military fort in northern Jordan, which suggests that the Romans may have had a more extensive military presence in the region than was previously known. These and other recent discoveries have the potential to significantly revise our understanding of Roman history and the Roman Empire.
+
+================================================================================
+
+--- Document 2787 ---
+True Label: AI
+Model: cohere
+Text Length: 1210 characters, 216 words
+Text: 
+Carbon dating is a technique used to determine the approximate age of organic materials, such as wood and fossils. The technique is based on the fact that all living things contain carbon, and that the amount of carbon in a material decreases over time as it decays. The technique works by measuring the amount of carbon in a material and comparing it to the amount of carbon in a known sample, such as a piece of wood that has been dated using other techniques.
+
+The reason we trust carbon dating is because it is based on the fact that all living things contain carbon, and that the amount of carbon in a material decreases over time as it decays. This means that the older a material is, the less carbon it will contain. This is a fairly straightforward and reliable method for determining the age of organic materials, and it has been used successfully for many years. It is important to note that carbon dating is not foolproof, and it is possible for the results to be inaccurate if the material being dated is contaminated or if the sample being compared to is not a good match. However, when properly conducted, carbon dating is a reliable and useful tool for determining the age of organic materials.
+
+================================================================================
+
+--- Document 3248 ---
+True Label: Human
+Model: human
+Text Length: 1894 characters, 325 words
+Text: It really depends what you mean by pass out. I assume you mean lose consciousness, which can be caused by a number of things. Depending on the cause your body may be doing a number of things.
+
+Typical reasons to go unconscious are lack of oxygen to the brain, lack of blood flow to the brain, seizure, trauma damaging the brain, infection, or toxicity (such as too much alcohol, poison, medications, toxins from organs failure, etc.).
+
+All of those will have the body doing something else when the brain is unconscious. If what you mean is what does the body do without the brain functioning, that's a little different. For the most part the body doesn't need higher brain function to perform basic life functions. When you become unconscious (not brain dead), the part of your brain that integrates signals from the body to control things like breathing is still working. This is the part referred to as the brain stem, and it triggers automatic breathing in response to levels oxygen and carbon dioxide in the blood, adjusts the heart rate to some degree, non-voluntary swallowing saliva, etc. Many organs like the gut, kidneys, liver, spleen, etc. don't need brain input to function. The gut in particular has a huge number of nerves that direct it's functions such as digestion the movement of food and waste autonomously.
+
+If the brain stem is damaged, depending on the level of damage, things slowly get worse, especially breathing. At some point, with minimal brain stem activity, you get to a point where oxygen and carbon dioxide levels have to get far out of normal to trigger breathing and you get a roller coaster of gasping deep breaths and stopping along with cycling of the heart rate. This breathing pattern is unstable and will end in death if the person isn't medically paralyzed/completely sedated to stop it and then hooked up to a respirator to regulate breathing for them.
+
+================================================================================
+
+--- Document 335 ---
+True Label: AI
+Model: cohere
+Text Length: 1081 characters, 171 words
+Text: 
+
+The president's pardon power is found in Article II, Section 2, Clause 1 of the U.S. Constitution. It states: "The President ... shall have Power to Grant Reprieves and Pardons for Offenses against the United States, except in Cases of Impeachment."
+
+The president's pardon power is one of the least limited powers the Constitution grants to the president. While the founders were concerned about giving the president too much power, they determined that the pardon power was necessary. In Federalist No. 74, Alexander Hamilton wrote: "The president would be impeachable by the House of Representatives for treason or bribery and by the Senate for maladministration. He would, therefore, be subject to the control of one or the other of these bodies for his conduct in office."
+
+Hamilton continued: "The Executive would have nothing to fear from the judiciary, while the judiciary would have a sufficient check upon the Executive through the medium of impeachment." Hamilton concluded that the president's pardon power was necessary to ensure the "public good" would be achieved.
+
+================================================================================
+
+--- Document 4224 ---
+True Label: Human
+Model: human
+Text Length: 1303 characters, 243 words
+Text: Short answer - You still have plenty of blood sugar to last on, and sleep shuts down digestion. It takes a little time to start back up. Basically, you don't know what hunger is
+
+Long answer:   
+ 
+There are at least 4 stages of hunger
+
+1- Stomach is empty, I would like some food.
+
+2- Stomach/intestines are cleared out. Running on blood sugar so you better get food now.
+
+3- Blood sugar is gone, converting fat and muscle to keep you alive. You better chase a small animal down NOW or you're going to die. Not true, but thats what it feels like.
+
+4- Fat and muscle are no longer supplying enough of what you need. On top of hunger you're suffering physical and cognitive impairment from lack of nutrients. You are likely sustaining long lasting or even permanent damage to your body. Eventually your brain and heart will shut down and you die
+
+It can take 4-6 hours to get to 2, depending on what you've eaten. Your blood and liver store ~24 hours of blood sugar. You can't get a decent estimate of when you will progress to 4, but you will run low on vitamins, ect before you run out of fat and muscle. If you live in a developed nation its possible to never have gotten to 2, and likely you've never seen 3. In the unlikely event you see 4, a doctor would probably recommend an extended hospital stay
+
+================================================================================
+
+--- Document 1807 ---
+True Label: AI
+Model: cohere
+Text Length: 1287 characters, 225 words
+Text: 
+
+If they could get it, colonists drank tea sweetened with sugar. Those who could afford it also ate off the fine china and used silver utensils. They displayed their wealth with fancy furniture and other household items. Rich colonists also had expensive hobbies. Some collected rare books or fine art. Others raised horses.
+
+But the majority of colonists were not rich. Most colonists worked hard all year just to survive. In the summer, they grew crops. In the winter, they fished and hunted. They also ate wild plants and roots. Because they didn't have much money, colonists had few things. Their houses had dirt floors. Their furniture was made of wood. Their dishes were made of clay.
+
+What was their favorite food? It was a treat called molasses. Molasses is a thick, dark syrup made from sugar cane. Molasses was popular because it was cheap and lasted a long time. Molasses could also be made into a bread called Boston brown bread. Colonists spread it on their bread or ate it with milk. They also drank it with tea.
+
+In the 1600s and 1700s, sugar was very expensive. Molasses was the only sweet thing most people could afford. They used it to make cookies, cakes, and puddings. Women also used molasses to make their skin look smooth and young. They rubbed it on their faces!
+
+================================================================================
+
+--- Document 2261 ---
+True Label: AI
+Model: cohere
+Text Length: 843 characters, 158 words
+Text: 
+When rockets launch, they do gain some benefit from the Earth's spin, but not tons of benefit. For example, the Earth's surface is moving at about 1675 km/hr. The Earth's equatorial radius is about 6378 km, so a point on the equator is moving at about 1675 km/hr * 6378 km/hr = 107,300 km/hr. A rocket launching from Cape Canaveral, which is at 28.5° N latitude, is only about 28.5° N of the equator, so it is only moving at 28.5° N * 1675 km/hr = 468 km/hr, less than 1/10th the speed that a rocket at the equator would be moving. Thus, there's not a huge amount of angular momentum that the Earth's spin imparts to a rocket. Of course, a single-stage rocket only needs to reach a few kilometers per second of speed to reach orbit, and the Earth's surface moves much faster than that, so rockets do still get some help from the Earth's spin.
+
+================================================================================
+
+--- Document 678 ---
+True Label: Human
+Model: human
+Text Length: 2175 characters, 344 words
+Text: I would love to just reap the karma for acting like I wrote this, but instead [here's a good, short article on the subject](_URL_1_).
+
+It doesn't name many names, but the one I found interesting was former President Eisenhower - who objected on grounds of it being too great a tax burden.  And the politicians who did object did so mostly based on a common believe in the scientific community that the Apollo program was "inefficient" - i.e. Apollo was too expensive given the scientific progress expected.  They proposed that we could send probes for a fraction of the expense, or achieve far more missions with the budget dedicated to a *manned* landing.  The article notes that congressional approval was approx 6 to 1 in favor.  One such example was former GOP Presidential Candidate Barry Goldwater, who said in the June 1964 *Popular Mechanics*: 
+
+ >  [the Kennedy Administration has...] *“retarded our own military development in near and outer space, while the enemy's development moves on.”* [Goldwater proposed] *“a re-planning of the present space program to provide for a more orderly, yet aggressively pursued, step-by-step development, remaining alert to the danger of over-diversion of skilled personnel in critical shortage from other vital areas such as health, industry, education and science.”* AND *“We are spending entirely too much money on the manned moon program, when a carefully plotted program using unmanned lunar landing equipment could steadily build up a solid body of scientific knowledge…. All manned space research should be directed by the military, with national security and control of the access to space as primary goals….”*
+
+Also, [here's an old reddit post](_URL_0_) asking if there were objections on religious grounds - and there certainly were.  And [here's](_URL_2_) another fun article about how opposition has mostly been hushed-up since the program was so popular and successful.  Interestingly, it seems many Civil Rights leaders objected based on the expense of the program - they believed funds were far more desperately needed to support the struggling African American community still battling the end of the Jim Crow era.
+
+================================================================================
+

@@ -1,0 +1,247 @@
+=== GERMAN_WIKI SAMPLES FOR GPTZER ===
+
+--- Document 521 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 2092 characters, 314 words
+Text: Beach-Wasserpolo ist eine Sommersportart, die ein traditionelles Wasserballspiel mit Schwimmen im Meer kombiniert. Der Sport wird weltweit immer populärer und bietet dem Spieler eine neue Art, Badminton oder Volleyball am Strand zu genießen. Ein Team besteht in der Regel aus vier oder fünf Feldspielern und einem Torwart, aber für kleinere Spiele können auch drei gegen drei oder zwei gegen zwei-Teams erstellt werden. Der sportliche Wettbewerb ist körperlich anstrengend, besonders wenn man gegen die Wellen des Ozeans ankämpft, was den professionellen und Amateurstatus schwieriger macht. 
+
+Die Regeln des Spiels sind in der Regel die gleichen wie beim traditionellen Wasserball, allerdings unterliegen diese Variationen aufgrund der Platzierung des Kurses. Ein Team versucht Tore zu erzielen, indem es den Ball in das Netz des gegnerischen Teams wirft oder legt. Wenn ein Spieler im Ballbesitz ist, muss er ihn innerhalb von drei Sekunden abspielen, um das Fließen des Spiels zu fördern. Der Torwart schützt sein Team und ist der einzige Spieler, der den Ball mit beiden Händen greifen oder berühren darf. 
+
+Beach-Wasserpolo-Spieler werden oft als großzügige Schwimmer ausgebildet, da ständige Bewegung im Schwimmen erforderlich ist, um sich vom Gegner fernzuhalten und den Ball im Besitz zu halten. Der wechselnde Wasserstand und die Gezeiten können die Schlacht um den Ball ändern und den Verlauf des Spiels beeinflussen. 
+
+Beachte-Wasser-Polo wird weltweit gespielt und hat eine große Anhängerschaft gefunden, besonders in den USA, Osteuropa, Südafrika und Australien. Es ist ein Sport, der schnell wächst, da er den Wettbewerb und das soziale Leben umarmt, während man gleichzeitig die Schönheit der Natur schätzt. Der Weltmeisterschaftsspiele sowie der inoffizielle Weltcup findet jährlich statt. Das ist ein Spiel, dass man nicht nur jung spielen kann, sondern auch im späteren Alter spielen kann. Es ist wegen der Form des Sports auch eine schonende Sportart für Gelenke, die für jeden geeignet ist. Es braucht nur einen Ball, ein Netz und ein paar Freunde, um anfangen zu spielen.
+
+================================================================================
+
+--- Document 737 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 912 characters, 141 words
+Text: Ein Fluss namens Brunnenbach verläuft in einem Wald in Bayern und mündet in Lochbach. Brunnenbach befindet sich westlich von Hausen und südwestlich von Liverdun. Der Fluss entspringt auf einer Höhe von etwa 190 Metern und mündet auf einer Höhe von etwa 164 Metern in Lochbach. Die Länge des Flusses beträgt etwa 3,7 km und das Einzugsgebiet des Flusses umfasst etwa 5,4 Quadratkilometer.
+
+Brunnenbach wird größtenteils von landwirtschaftlichen Flächen und Wäldern umgeben. Es gibt in der Nähe auch ein Naturschutzgebiet namens "Gantsberg" und das Flusstal von Lochbach ist Teil des NATURA 2000-Gebietes "Wälder und Bäche des Untermains".
+
+Der Fluss ist ein wichtiger Lebensraum für viele Wassertiere wie Fische, Weichtiere und Insekten. Es gibt auch viele Vögel und Säugetiere, die in und um den Fluss leben. Brunnenbach ist ein Ort für die Erholung und Entspannung, und es gibt viele Wanderwege in der Umgebung.
+
+================================================================================
+
+--- Document 740 ---
+True Label: Human
+Model: human
+Text Length: 1806 characters, 247 words
+Text: Bruno St-Onge (* 27. Juli 1959 in Québec) ist ein kanadischer Biathlonfunktionär.
+Bruno St-Onge war selbst als junger Mann aktiver Biathlet an einer kanadischen Kadettenanstalt. In den 1980er Jahren war er Cadet Instructors Cadre. 1992 machte er seinen Abschluss an der Université Laval in Québec. St-Onge ist Präsident der Association des clubs de biathlon du Québec. Im Executive Committee des Kanadischen Biathlon-Verbandes ist er für die nationalen Freiwilligen-Programme zuständig zudem gehört er dem Officials Committee an. Seit 2006 gehört er auch zu den Technischen Delegierten der Internationalen Biathlon-Union, die für die korrekte Durchführung der internationalen Wettbewerbe verantwortlich sind. Neben Rennen auf kanadischer Ebene, so Kanadischen Meisterschaften, dem Biathlon-NorAm-Cup oder Biathlon-Nordamerikameisterschaften war St-Onge 1991 auch für die Durchführung eines Weltcup-Rennens und 2006 für die Jugend- und Juniorenweltmeisterschaften in Presque Isle zuständig. Höhepunkt war in diesem Bereich die Verantwortung für die Strecken während der Olympischen Winterspiele von Vancouver. In Kanada ist er auch für die Ausbildung der Streckenfunktionäre zuständig.St-Onge ist einer der höchstdekorierten kanadischen Biathlonfunktionäre. 2004 wurde ihm der Ruedi Setz Memorial Award zuerkannt, 2006 der June Hooper Memorial Award und 2009 der Myriam Bédard Award. Er ist neben Carol Henley, die den Myriam Bédard Award gemeinsam mit ihm bekam, der einzige Preisträger aller drei Auszeichnungen. 2008 wurde er als bislang einziger Ausgezeichneter zudem mit der Official of the Year-Trophäe bedacht. Nach ihm wurde der Bruno St-Onge Award benannt, mit dem der beste Helfer des Jahres bei den Kadetten-Meisterschaften Kanadas ausgezeichnet wird. Er lebt in Squamish.
+
+
+== Einzelnachweise ==
+
+================================================================================
+
+--- Document 660 ---
+True Label: Human
+Model: human
+Text Length: 1096 characters, 148 words
+Text: Bobo ist ein Neologismus, Oxymoron und Akronym, da sich die Abkürzung aus den französischen Wörtern bourgeois und bohémien zusammensetzt.
+Der Begriff „Bobo“ wurde durch das im Jahr 2000 erschienene populärwissenschaftliche Buch Bobos in Paradise von dem Kolumnisten der New York Times David Brooks geprägt, der sich selbst als Bobo bezeichnet. Er bezeichnet dementsprechend ursprünglich die US-amerikanische Oberschicht am Ende der 1990er-Jahre, die „Konservativen in Jeans“ und „Kapitalisten der Gegenkultur“.
+
+Mit dem Begriff „Bobos“ ist der Vorwurf verbunden, dass deren scheinbare Teilnahme am Leben der kopierten Szenen und Subkulturen durch ihre erheblich höhere Kaufkraft zum raschen Anstieg der Mieten und damit zur Verdrängung der ursprünglichen Bewohner führe. Die Bobos würden somit als Speerspitze einer beschleunigten Gentrifizierung wirken. Neben der – volkswirtschaftlich positiv zu bewertenden – Aufwertung der Wohnsubstanz komme es oft zur Bildung wohlhabender, sozial homogener Stadtviertel, aus denen die für das Viertel vordem typischen Lebensweisen völlig verschwunden seien.
+
+================================================================================
+
+--- Document 411 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1669 characters, 237 words
+Text: Autobahn 81 auch bekannt als die A81, ist ein wichtiger Autobahn in Süddeutschland. Der etwa 311 km lange Abschnitt verbindet die beiden Städte Würzburg und Singen und verläuft hauptsächlich durch Baden-Württemberg. Die A81 wurde in den späten 1930er Jahren gebaut, aber aufgrund des Zweiten Weltkriegs und der damit verbundenen Ressourcenbeschränkungen erst in den 1950er Jahren fertiggestellt. 
+Die Autobahn wurde im Laufe der Geschichte erweitert und modernisiert, um die steigende Anzahl von Fahrzeugen und die Bedürfnisse des modernen Verkehrs zu bewältigen.
+
+Die A81 beginnt in Würzburg, von wo aus sie in südlicher Richtung führt, durch die Städte Heilbronn, Stuttgart, Rottweil und Singen, bevor sie an der Grenze zur Schweiz endet. Die A81 passiert viele wichtige städtische Gebiete und den Schwarzwald, die grüne Lunge Deutschlands. Entlang der Route gibt es mehrere bedeutende natürliche Landmarken und Sehenswürdigkeiten. Dazu zählen unter anderem das Schloss Ludwigsburg, die Burg Hohenzollern und der Bodensee, einer der größten Seen Mitteleuropas. 
+
+Autobahn 81 wird oft von Berufspendlern und LKW-Fahrern frequentiert, was zur Folge hat, dass das Verkehrsaufkommen auf der Straße oft stark ist. In den letzten Jahren wurden mehrere Erweiterungen an der Autobahn durchgeführt, um die Anzahl der Autos bewältigen zu können. Trotzdem kam es aufgrund des hohen Verkehrsaufkommens in der Vergangenheit auch zu schweren Unfällen.
+
+Änderungen in der Straßeninfrastruktur und Maßnahmen zur Verkehrssicherheit auf der A81 sind fortlaufend Gegenstand von Diskussionen, um die Effizienz des Verkehrsflusses und die Sicherheit auf der Autobahn weiter zu verbessern.
+
+================================================================================
+
+--- Document 678 ---
+True Label: Human
+Model: human
+Text Length: 1362 characters, 187 words
+Text: Die Bologneser Schule ist eine Stilrichtung der italienischen Malerei. Sie ist benannt nach der norditalienischen Stadt Bologna, aus der die wichtigsten Vertreter der Schule kamen, oder wo sie tätig waren.
+Als Begründer der Bologneser Schule gilt oft Francesco Francia, ein Zeitgenosse Raffaels.
+Mit der Gründung der Accademia degli Incamminati durch Ludovico, Agostino und Annibale Carracci und deren Ziel einer größeren Natürlichkeit und gleichzeitig neuen Ausrichtung der Kunst an den klassischen Idealen der Antike und der Renaissance – im Gegensatz zum Manierismus – wurde die Bologneser Schule zum wichtigsten Ausgangspunkt des Barock in der europäischen Malerei.
+Sie war im 17. Jahrhundert bestimmend für die Strömung des sogenannten klassizistischen Barock in der Malerei, die grundsätzlich im Gegensatz zum oft kruden Naturalismus und Tenebrismus der Caravvaggisten stand, obwohl die beiden Strömungen auch vermischt wurden. Bedeutende Vertreter des barocken Klassizismus sind Guido Reni, Domenichino und teilweise Guercino, die alle auch in Rom wirkten und diese Strömung damit internationalisierten.
+Von der Bologneser Schule als Stilrichtung ist die ältere Bologneser Schule des 14. Jahrhunderts um Vitale da Bologna (1310–1360), Dalmasio Scannabecchi (1315–1374), Simone dei Crocifissi (1330–1390) und Lippo di Dalmasio (1355–1410) zu unterscheiden.
+
+================================================================================
+
+--- Document 626 ---
+True Label: Human
+Model: human
+Text Length: 1123 characters, 151 words
+Text: Der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (BStU), verkürzend nach den amtierenden Bundesbeauftragten auch Gauck-, Birthler- bzw. Jahn-Behörde genannt, war eine Bundesoberbehörde mit Zentralstelle in Berlin und Außenstellen in den Neuen Ländern. Ihre Aufgabe bestand darin, die Akten und Dokumente des Ministeriums für Staatssicherheit (kurz MfS oder „Stasi“) der DDR zu verwalten und zu erforschen. Die Errichtung der Behörde wurde von Mitgliedern der Bürgerkomitees und Freiwilligen der Bürgerrechtsbewegung im Zuge der friedlichen Revolution von 1989 erwirkt. Die Amtszeit des Bundesbeauftragten betrug fünf Jahre, eine einmalige Wiederwahl war gemäß § 35 Abs. 4 Stasi-Unterlagen-Gesetz (StUG) möglich. Das 1991 in Kraft getretene StUG bildete die Rechtsgrundlage der Behörde. Die Behörde war Mitglied der Platform of European Memory and Conscience und gehörte dem Geschäftsbereich des Beauftragten der Bundesregierung für Kultur und Medien (BKM) an. Mit Wirkung zum 17. Juni 2021 wurde die Behörde aufgelöst und in das Bundesarchiv überführt.
+
+================================================================================
+
+--- Document 513 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1999 characters, 260 words
+Text: Baumharz wird von Bäumen produziert und ist eine viskose und klebrige Substanz. Baumharz schützt den Baum vor Schädlingen sowie Pilzen und Fäulnis.
+Es dient dem Baum auch als Wundverschluss. Baumharz besteht aus einer Mischung von vielen unterschiedlichen organischen Stoffen. Die Hauptkomponente ist Harzsäure, die zusammen mit Terpenen und Harzen sekundärer Pflanzenstoffe das Schaustoffgemisch ist. Frisches Harz ist klebrig und zeichnet sich durch einen starken Geruch aus. Mit der Zeit nimmt es an Härte zu und verfärbt sich von Honiggelb zu nahezu Schwarz. Prähistoriker fanden Baumharz in Werkzeugen und Schmuck aus Steinzeit-Vorzeiten, was darauf hindeutet, dass es schon vor Jahrtausenden als Klebstoff und Material für Schmuck verwendet wurde.
+In der modernen Technologie wird Baumharz als roher Ausgangsstoff eingesetzt, um Harze und Leime herzustellen, die in Kleidungsstücken, Möbeln, Haushaltsartikeln sowie in der Automobilbranche als Klebstoff und Dichtungsmittel eingesetzt werden. 
+Das Harz von Koniferen wird beispielsweise zur Herstellung von Rosin, für den Bogen der Streichinstrumente eingesetzt oder auch als Bindemittel in manchen Farbprodukten. Verschiedene Baumharze werden auch in der Naturmedizin eingesetzt und haben angeblich entzündungshemmenden und schmerzstillenden Effekte. Baumharz ist auch eine beliebte "Kaugummialternative" aus der Natur. Kauen von Harz hat eine lange Tradition, und wird regional auch pflanzenspezifisch unterschiedlich bezeichnet. Den Zweck des Kauens von Baumharz von den Inuit wird beispielsweise als Beschäftigung während der Jagd und Steigerung der Konzentrationsfähigkeit beschrieben.
+Einige wissenschaftliche Untersuchungen zeigen, dass bestimmte Harze des Heidelbeerbaums das Bakterienwachstum von entsprechendem Zahnschmelz reduzieren und somit den Zahn im Munde schützen können, andere Harze haben antiseptische Eigenschaften und können bei Verletzungen zur Wundheilung beitragen. Einige Harze besitzen auch antivirale Eigenschaften.
+
+================================================================================
+
+--- Document 859 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 3242 characters, 424 words
+Text: Wir stellen Ihnen heute das Cassegrain-Teleskop vor, eine Bauart von Reflektorteleskopen. Das Cassegrain-Teleskop ist ein Spiegelteleskop mit einer besonderen Konstruktion. Hier wird das Hauptspiegel des Teleskops nach unten gewölbt, sodass es einen sekundären gebogenen Spiegel gibt. Dieser ringförmige Spiegel reflektiert die von oben einfallenden Lichtstrahlen in Richtung des Hauptspiegels, wo sie in einem Punkt fokussiert werden. Der Hochpunkt des ‚Omegas‘ ist dabei vom Boden des Körpers aus zu sehen.Der Brechungsindex ist der Faktor, mit dem der Fokus auf der rückkehrenden optischen Achse aus der Brennweite des Hauptspiegels des Teleskops multipliziert wird. Dadurch kann eine optische Generation größerer Öffnung erreicht werden, als wenn man keinerlei Fokussierung durchführt.Die Konstruktion des Cassegrain-Teleskops ist jedoch bedeutend aufwendiger als die von klassischen Spiegelteleskopen, wodurch die Produktion teurer ist. Des Weiteren sind die Haupt- und Sekundärspiegel sowie der Umfang des sekundären Spiegels von hoher Qualität. 
+Diese Teleskope werden heute in der Astronomie und in der Radioastronomie verwendet. Die Beobachtungsplattformen dieser Teleskope befinden sich meist in Großobservatorien und Forschungszentren weltweit. Ein Beispiel hierfür ist das Lick-Observatorium in Kalifornien. Das Lick-Teleskop weist ein Gehäusedurchmesser von 120 Zoll und eine Brennweite von 57 Metern auf, während die gesamte Konstruktion eine Länge von insgesamt 120 Metern aufweist. Andere berühmte Cassegrain-Teleskope sind das 'ZWING UND ZWANG' auf dem Rütihuus in Rorschacherberg oder das 1,7-Meter-Teleskop am Mt. Wilson-Observatorium in Kalifornien.
+YChotter_Q 2021-10-24: Das Cassegrain-Teleskop ist ein Spiegelteleskop mit einer besonderen Konstruktion. Hier wird das Hauptspiegel des Teleskops nach unten gewölbt, sodass es einen sekundären gebogenen Spiegel gibt, der ringförmig ist und die von oben einfallenden Lichtstrahlen in Richtung des Hauptspiegels reflektiert, wo sie in einem Punkt fokussiert werden. Der Hochpunkt des ‚Omegas‘ ist dabei vom Boden des Körpers aus zu sehen. Durch die Fokussierung mit dem Brechungsindex, der den Fokus auf der rückkehrenden optischen Achse aus der Brennweite des Hauptspiegels des Teleskops multipliziert, kann eine optische Generation größerer Öffnung erreicht werden als ohne Fokussierung. Die Konstruktion des Cassegrain-Teleskops ist jedoch bedeutend aufwendiger als die von klassischen Spiegelteleskopen, wodurch die Produktion teurer ist. Des Weiteren sind die Haupt- und Sekundärspiegel sowie der Umfang des sekundären Spiegels von hoher Qualität.
+Diese Teleskope werden hauptsächlich in der Astronomie und in der Radioastronomie verwendet. Die Beobachtungsplattformen dieser Teleskope befinden sich meist in Großobservatorien und Forschungszentren weltweit. Ein Beispiel hierfür ist das Lick-Observatorium in Kalifornien. Das Lick-Teleskop hat einen Gehäusedurchmesser von 120 Zoll und eine Brennweite von 57 Metern, während die gesamte Konstruktion eine Länge von insgesamt 120 Metern aufweist. Andere berühmte Cassegrain-Teleskope sind das 'ZWING UND ZWANG' auf dem Rütihuus in Rorschacherberg oder das 1,7-Meter-Teleskop am Mt. Wilson-Observatorium in Kalifornien.
+
+================================================================================
+
+--- Document 136 ---
+True Label: Human
+Model: human
+Text Length: 1377 characters, 183 words
+Text: Aldosereduktase (AR) (Gen: AKR1B1) ist ein Enzym, welches die Reduktion von verschiedenen Aldehyden und Ketonen (einschließlich Monosaccharide) katalysiert. Besonders ist die Aldosereduktase dafür bekannt, Glukose zu Sorbit umzuwandeln. Dies ist der erste Schritt im Polyolweg, der von Zellen benutzt wird, um ohne ATP-Verbrauch Fructose aus Glucose herzustellen. Die wichtigste Aufgabe von AR ist wahrscheinlich, giftige Aldehyde zu reduzieren, die im Stoffwechsel entstehen. Jedes Lebewesen benutzt AR. Die Nebennieren des Menschen produzieren am meisten AR, es ist jedoch in allen Gewebetypen aktiv.Bei Diabetes mellitus oder Galactosämie entsteht durch die AR viel Sorbit, das sich aufgrund der Langsamkeit der Sorbitdehydrogenase in den Zellen ansammelt und insbesondere in den Nieren, Augen und Nerven Schäden durch den hohen osmotischen Druck verursacht. Um Folgeschäden von Diabetes zu lindern, versucht man daher, Arzneistoffe zu finden, die die AR hemmen. Ein erster Vermarktungsversuch mit Tolrestat musste 1997 wegen schwerer Lebertoxizität wieder zurückgenommen werden. Die bestuntersuchten möglichen Arzneistoffe sind momentan Epalrestat und Ranirestat. Epalrestat hat in Japan die Zulassung erhalten.Neben der Funktion im Zuckermetabolismus und bei der Entgiftung von Aldehyden spielt AR noch eine Rolle bei der Signaltransduktion während entzündlicher Prozesse.
+
+================================================================================
+
+--- Document 811 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1763 characters, 241 words
+Text: Cahuáchi, auch als „Verwaltungszentrum der Nasca-Kultur“ bekannt, ist eine archäologische Stätte in der peruanischen Region Ica. Der Ort diente von etwa 300 v. Chr. bis zum 9. Jahrhundert n. Chr. als Zentrum der späten Form der Nasca-Kultur. Das Cahuáchi-Thema blieb für viele Jahre aufgrund der Einstufung der Stätte als „industrielle Enklave“ durch den Archäologen Robert Ravines unbeachtet und wurde erst im Jahr 1997 von dem japanischen Forscher Masato Sakai wieder aufgegriffen. Sakai erkannte, dass die dreistöckigen Strukturen, rund um das End mit der „Aquanefen-Plattform“, keine industriellen Gebäude waren, sondern rituelle Tempel, Paläste und sogar Wohngebäude.
+
+Seit die Bedeutung von Cahuáchi seriös erforscht wird, entstanden Forschungsprogramme durch den Los Angeles County Museum of Art und das Instituto de Estudios Peruanos. Die Forschungsergebnisse haben bisher gezeigt, dass die Cahuáchi-Bewohner auf ein sehr hohes Niveau der Stadtplanung und der architektonischen Entwicklung zurückgreifen konnten. Ein großer Entdeckungsdurchbruch ergab sich aus der Untersuchung der darunterliegenden Hügel und der Aushöhlungen um Cahuáchi. Die Untersuchungen brachten Beweise dafür, dass mindestens sechs Zivilisationen vor der Nasca-Kultur in der Region gelebt hatten, die nicht indigene Aymara, Wari und möglicherweise Moche einschloss.
+
+Cahuáchi wurde als anderes Beispiel für eine der am wenigsten veröffentlichten aber dennoch wichtigsten Stätten des peruanischen Erbes von der Sixto Duran Ballén-Stiftung oder auch Banco Central del Ecuador ausgezeichnet. Im Jahr 2004 wurde eine weitere Geschichte gemacht, als die Erde um die Auffangbecken von Aquanefen plötzlich nachgab und dabei eine 60 Meter lange und dreieckige Rutsche-Bahn freigelegt wurde.
+
+================================================================================
+
+--- Document 76 ---
+True Label: Human
+Model: human
+Text Length: 2338 characters, 331 words
+Text: Die AfriCat-Stiftung (englisch: AfriCat Foundation), gegründet 1992,  ist eine vom namibischen Ministerium für Umwelt und Tourismus anerkannte, nicht-profitorientierte Organisation, die sich um den Erhalt der afrikanischen Großkatzen, insbesondere von Geparden und Leoparden, bemüht. Ihr Sitz ist in Otjiwarongo, Namibia.
+Die Population dieser Großkatzen ist im Laufe der Zeit drastisch zurückgegangen. Schon lange vor der Kolonialisierung Afrikas sind die Raubtiere wegen ihres Fells oder aus reinem Jagdinteresse geschossen worden. Nach wie vor sind die Tiere durch Wilderei und Einengung ihrer Lebensräume gefährdet. In Namibia besteht die Gefahr insbesondere durch Farmer, die ihre Wildbestände bedroht sehen. Im Gegensatz zu Löwen, die in den Nationalparks geschützt sind, leben Leoparden und Geparden in Namibia in den weiten Flächen des Farmlands. Einige Farmer benutzen Käfigfallen, um sie zu fangen und im Käfig zu erschießen. Es gibt in Namibia kein Gesetz, das das Töten dieser Tiere verbietet. 
+Zudem gibt es Jagdfarmen, die gegen Bezahlung das Schießen von Wildtieren anbieten. Dabei können nicht nur Antilopen und Zebras, sondern auch Großkatzen geschossen werden. Da diese jedoch sehr selten zu sehen sind, ist der Preis dafür wesentlich höher.
+Ein weiteres Problem ergibt sich aus der Verbuschung weiter Landstriche, wodurch die Savannenlandschaft sich in eine Dornbuschlandschaft verändert. Speziell Geparden sind für ihre Hetzjagd jedoch auf weite Steppen angewiesen. Büsche hindern sie nicht nur daran, sondern bieten darüber hinaus zusätzlichen Unterschlupf für die Beutetiere.
+Die Organisation bietet für die Farmer die Möglichkeit, die gefangenen Tiere abholen zu lassen. Sie werden dann auf dem Gelände von AfriCat gefüttert und versorgt. Teilweise werden die Katzen durch die Fallen stark verletzt und müssen ärztlich behandelt werden. Die Tiere werden nach der Versorgung entweder in einem sicheren Gebiet wieder freigelassen oder bleiben, sofern bleibende Schäden entstanden sind und das Tier nicht mehr selbst jagen kann, auf dem mehrere Quadratkilometer großen Gelände. Ebenso ist möglich, dass ein Muttertier erschossen worden ist und Jungtiere zurückbleiben, die die Jagd noch nicht erlernt haben. Auch diese Tiere hätten in freier Wildbahn keine Überlebenschance und verbleiben auf dem Gelände der Stiftung.
+
+================================================================================
+
+--- Document 636 ---
+True Label: Human
+Model: human
+Text Length: 1518 characters, 207 words
+Text: Blaundos (altgriechisch Βλαῦνδος) war eine antike Kleinstadt im Grenzgebiet zwischen den kleinasiatischen Landschaften Lydien und Phrygien. Ihre Ruinen liegen ca. 20 km südlich von Uşak bei dem heutigen Dorf Sülümenli in der Türkei.
+Aus der Vorgeschichte ist wenig bekannt, erst im Hellenismus tritt die Stadt auf Münzen hervor, allerdings noch unter dem Namen Mlaundos. Offensichtlich wurden makedonische Söldner in der Stadt angesiedelt. 188 v. Chr. fiel Blaundos in den Herrschaftsbereich von Pergamon, von dem Rom es 133 v. Chr. erbte. Am Ende der römischen Bürgerkriege wurden wahrscheinlich Veteranen in Blaundos angesiedelt.
+Von neronischer Zeit bis in die Regierungszeit des Maximinus Thrax prägt Blaundos wieder eigene Münzen.
+Die Ruinen von Blaundos sind noch heute sehenswert. Neben einem Stadttor und Resten der Stadtmauer sind noch Reste eines Steinfachwerkgebäudes erhalten, Theater, Stadion und einzelne Tempelanlagen sind noch gut zu erkennen. Blaundos wurde 2000–2002 durch einen Survey des Deutschen Archäologischen Instituts untersucht, der unter anderem feststellte, dass Blaundos im 4. Jahrhundert eine umfangreiche Befestigungsanlage erhielt, die etwa die Hälfte der kaiserzeitlichen Stadt umschloss. Diese Verkleinerung war aber kein Zeichen eines wirtschaftlichen Niedergangs, wie die aufwändigen Wohnhäuser innerhalb des Mauerrings zeigen. Erst im 6. Jahrhundert veränderte sich die Siedlung; die Wohnbebauung in der Stadt wurde kleinteiliger, bestehende Bauten wurden für Spolien ausgebeutet.
+
+================================================================================
+
+--- Document 973 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1862 characters, 273 words
+Text: Clemens Wenzel ist eine Sandsteinskulptur, die im Jahr 1744 von Philipp Rokotnitz im Barockstil geschaffen wurde. Sie befindet sich auf der historischen Charles-Brücke in Prag und ist eine der vier heiligen Figuren, die diese Brücke schmücken. Dabei handelt es sich um religiöse Persönlichkeiten, die als Schutzpatrone der Länder verehrt werden, die zur Zeit ihrer Errichtung Teil des Habsburgerreiches waren. Neben Clemens Wenzel sind auch der Hl. Norbert von Xanten, der Hl. Johannes von Nepomuk und der Hl. Luthgard von Tongern vertreten.
+
+Die Clemens Wenzel Statue zeigt den blendenden Sohn des Silberbergbaus, der hier als Beschützer von Bergarbeitern, Gelehrten und Musikern gilt. Auf einer Säule, die in Form eines geschichteten Felsens gestaltet ist, ist er als wohltätiger Herrscher dargestellt – mit einem Zepter in der Hand und einem Fleckentier am Fuß. Durch die Darstellung auf einem schroffen Felsen soll seine Bedeutung als Fürsprecher und Schutzpatron der tschechischen und deutschen Bergbaugesellschaft unterstrichen werden.
+
+Clemens Wenzel war Graf von Kaunitz und Fürst von Schwarzenberg. Er starb 1794 im Alter von 73 Jahren. Während seiner Zeit als Staatsmann des Heiligen Römischen Reiches und als Diplomat arbeitete Clemens eng mit Kaiserin Maria Theresia und ihrem Sohn Joseph II. zusammen und galt als einer der wichtigsten Macher der österreichischen Außenpolitik im 18. Jahrhundert. Seine Verdienste um die Etablierung der österreichischen Monarchie waren enorm, ebenso der Einfluss, den er auf das Zeitgeschehen ausübte. Obwohl er zu seiner Zeit ein hochangesehener Staatsmann war, ist es die Verehrung seiner Figur auf der allerbesten Promenade in Prag, die ihn in der heutigen Zeit so bekannt und unsterblich machen. Clemens Wenzels ungewöhnliche Darstellung auf der Brücke bleibt ein wichtiger Teil der kulturellen Identität Prags.
+
+================================================================================
+
+--- Document 938 ---
+True Label: Human
+Model: human
+Text Length: 1107 characters, 168 words
+Text: Chi Cygni (χ Cygni) ist ein veränderlicher Stern vom Typ Mira im Sternbild Schwan. Seine Veränderlichkeit wurde 1686 von Gottfried Kirch entdeckt. Er war somit nach Mira der zweite entdeckte Stern dieser Veränderlichenklasse.
+Bei einer durchschnittlichen Periodenlänge von 408 Tagen zeigt Chi Cygni die größten Schwankungen der scheinbaren Helligkeit aller Mirasterne. Diese erreichte Extremwerte von +3,3 mag und +14,3 mag. Somit ist Chi Cygni im Minimum nur mit Fernrohren mit einer Apertur (Öffnung) von über 30 Zentimetern sichtbar, während er im Maximum oft mit bloßem Auge gesehen werden kann.
+Der Zeitraum vom Maximum zum Minimum beträgt 241 Tage, der vom Minimum zum Maximum 167 Tage.Weil von der Oberfläche unter anderem CO und SiO als Gase abströmen und den Stern als Wolke aus Molekülen und Silikatstaub umgeben, kommt es zu einem Farbexzess, d. h. die von der Wolke absorbierte Strahlung des Sterns wird im infraroten Spektralbereich wieder emittiert. Der Infrarotanteil der Strahlung ist dadurch höher als es nach dem Planckschen Strahlungsgesetz für die Temperatur des Sterns zu erwarten wäre.
+
+================================================================================
+
+--- Document 899 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 2143 characters, 292 words
+Text: Chanzong, auch bekannt als Pilzkopf, ist eine berühmte Sorte von Psilocybin-Pilzen, die psychoaktive Verbindungen enthalten, die eine Reihe von Effekten auf das zentrale Nervensystem ausüben können. Der Wirkstoff Psilocybin in Chanzong wurde erstmals vom Schweizer Chemiker Albert Hofmann synthetisiert, der auch das LSD entdeckte. Pilzkopf wird oft aufgrund seiner charakteristischen Form als Hut mit Stiel und Lamellen bezeichnet. Die Stiele der Pilze sind zylindrisch und biegsam, während der Hut je nach Sorte unterschiedliche Farben und Formen aufweisen kann. Typischerweise sind sie braun, grün oder lila und haben eine stumpfe oder spitze Form. Einige Sorten haben auch eine konisch geformte Basis, die als "Kegel" bezeichnet wird. In der Geschichte wurden psychedelic Pilze von vielen Kulturen für religiöse oder spirituelle Zwecke eingesetzt. Heute werden sie oft als Freizeitdroge konsumiert, was in vielen Ländern illegal ist.
+Die Wirkungen von Pilzkopf können je nach Dosis variieren und beinhalten eine erhöhte visuelle Wahrnehmung, gesteigerte Empfindungsströme und Halluzinationen. Die psychoaktiven Verbindungen in Psilocybin-Pilzen beeinflussen auch die Stimmung und das Bewusstsein des Nutzers und können zu einer erhöhten Kreativität und einem erweiterten Selbstbewusstsein führen. Obwohl Pilzkopf nicht süchtig macht, kann der Konsum psychologische Effekte nach sich ziehen und ist in vielen Ländern illegal. Es ist wichtig zu beachten, dass der Konsum von Chanzong auch das Gehirn beeinflussende Wirkstoffe enthält, die bei bestimmten Personen zu Problemen führen können. Pilzkopf sollte daher nur von Personen eingenommen werden, die sich der Risiken bewusst sind und über die Auswirkungen und Nebenwirkungen informiert sind. Trotz der möglichen Risiken gibt es eine wachsende Zahl von Organisationen und Gruppen, die für die Legalisierung von psychedelischen Substanzen kämpfen und auf ihr therapeutisches Potenzial hinweisen. Eine wissenschaftliche Untersuchung der Wirkung von Pilzen und anderen psychedelischen Substanzen ist ein wichtiges Thema der Forschung zur zukünftigen Behandlung von verschiedenen Krankheiten.
+
+================================================================================
+
+--- Document 280 ---
+True Label: Human
+Model: human
+Text Length: 1607 characters, 240 words
+Text: Anton „Tonio“ Rella (* 24. März 1888 in Brünn; † 8. März 1945 in Wien) war ein österreichischer Mathematiker, der sich vor allem mit algebraischer Zahlentheorie befasste.
+Rella war der Sohn eines Ingenieurs und studierte ab 1907 Mathematik und Physik an der Universität Wien, an der er 1913 bei Franz Mertens (und Philipp Furtwängler) promoviert wurde (Studien über relativ abelsche Zahlkörper). Im Ersten Weltkrieg war er zuletzt Hauptmann und kommandierte die Meßgruppe einer Bombereinheit. Nach dem Krieg wurde er 1920 Assistent am Mathematischen Seminar der Universität Wien und wurde 1921 Privatdozent. 1922 wurde er außerordentlicher und 1924 ordentlicher Professor an der Universität Graz, an der er 1930/31 Dekan war. Ab 1932 war er ordentlicher Professor für Mathematik an der TH Wien (Lehrkanzel II).
+Er trat mit dem Entdecker der p-adischen Zahlen Kurt Hensel in Briefkontakt, der ihn auch in Küb besuchte. Einige der bekanntesten Veröffentlichungen von Rella sind auf dem Gebiet der p-adischen Zahlen.
+1936 war er Invited Speaker auf dem Internationalen Mathematikerkongress in Oslo (Über den absoluten Betrag von Matrizen).
+Zu seinen Doktoranden gehörten Egon Ullrich, Gottfried Köthe und Georg Kantz. Zu seinen Schülern gehörte auch Alexander Aigner.
+Er war als Schüler und auch danach mit Erwin Schrödinger befreundet (der ihn aber auf dem Gymnasium in Mathematik ausstach). Beide verbrachten ihre Sommerferien öfter im Erholungsheim der Familie Rella in Küb am Semmering.
+Anton Rella wurde im März 1945 bei der Eroberung Wiens durch sowjetische Truppen von verirrten Granatsplittern getötet.
+
+================================================================================
+
+--- Document 883 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1341 characters, 198 words
+Text: Cerussit ist ein Mineral, das zur Gruppe der Carbonate gehört. Es ist ein wichtiges Erzmineral für Blei und enthält daher oft Spuren von Silber. Es kommt in silbrig-weißen oder grauen Kristallen vor und ist auch in der Form von pulverischem oder massivem Material bekannt. Cerussit ist ein relativ weiches Mineral und hat eine Mohs-Härte von 3 bis 3,5.
+Cerussit wurde erstmals im Jahr 1834 von Wilhelm Haidinger mit dem Namen Cerussa beschrieben und später von Francois Sulpice Beudant in Cerussit umbenannt. Der Name leitet sich von dem lateinischen Wort "cerussa" ab, das weißes Bleicarbonat bedeutet. Cerussit hat verschiedene Namensvarianten, wie z.B. Bleitrioxidcarbinat, Cerusit und auch Cerussi.
+Drusenförmige Cerussitkristalle sind in vielen Teilen der Welt verbreitet und können in Österreich, Mexiko, Australien und Tunesien gefunden werden. In Österreich ist der Bergbau auf Cerussit seit langem bekannt und bis heute von großer Bedeutung. Ein Beispiel ist der Bergbau in den Ostalpen, wo Cerussit unter anderem aus den Skiptalithöhlen in Kärnten gewonnen wird. Cerussit findet auch Anwendung in der Industrie, da es als Additiv zur Herstellung von Zement verwendet werden kann. Ein weiteres Anwendungsgebiet ist die Glasproduktion, wo es verwendet wird, um die Oberfläche zu verfeinern und die Lichtdurchlässigkeit zu verbessern.
+
+================================================================================
+
+--- Document 761 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 1558 characters, 213 words
+Text: Bulimar (* 14. Dezember 1991 in Bukarest) ist eine ehemalige rumänische Kunstturnerin. Sie wurde 2013 Vize-Weltmeisterin am Boden und 2015 Vize-Europameisterin am Boden sowie mit der Mannschaft. Ins Rampenlicht trat sie erstmals 2007, als sie als Zweite der rumänischen Landesmeisterschaft im Mehrkampf überzeugte.
+
+Bulimar kann auf eine erfolgreiche Karriere zurückblicken. 2011 gewann sie bei den Senioren ihre erste EM-Medaille. Im selben Jahr konnte sie zudem beim Cottbuser Turnier das Mehrkampffinale für sich entscheiden. Auch international feierte sie in dieser Zeit erste Erfolge und konnte sich auf der Weltcup-Serie platzieren.
+
+2012 schaffte es Bulimar dann in das rumänische Olympia-Team und wurde Mannschaftsbronze. Bei den folgenden Weltmeisterschaften konnte sie mit Bronze am Boden einen weiteren Erfolg feiern. In den Folgejahren konnte sie immer wieder bei Wettkämpfen punkten und Erfolge einstreichen.
+
+Allerdings hatte Bulimar 2016 gesundheitliche Schwierigkeiten, die sie einige Zeit von ihren Wettkämpfen abhielten. Im darauffolgenden Jahr trat sie nochmals bei der Europameisterschaft an, konnte aber schon bald danach ihre aktive Karriere aufgrund ihrer Verletzungen beenden.
+
+Bulimars Werk verhalf ihr zu besonderem Ruhm. Besonders die Kombination aus Anmut und Präzision konnte ihr Publikum begeistern und ihre Kontrahenten beeindrucken. Wegen ihrer schnellen Tänze und ihrer Linearität war sie eine gefürchtete Konkurrentin auf der Bühne. Ihr Karriereende bedauern Kunstturnfans in Rumänien und weit über die Landesgrenzen hinaus.
+
+================================================================================
+
+--- Document 319 ---
+True Label: AI
+Model: gpt-3.5-turbo
+Text Length: 2580 characters, 333 words
+Text: ## Introductory Summary
+Ariel Zhitnitsky ist ein kanadischer Physiker und Mathematiker. Er ist Professor an der University of British Columbia und arbeitet im Bereich der theoretischen Kernphysik und Quantenfeldtheorie. Zhitnitsky wurde von der Alexander von Humboldt-Stiftung und der Max-Planck-Gesellschaft unterstützt und hat auf internationaler Ebene mit Physikern und Mathematikern zusammengearbeitet.
+
+## Early Education and Career
+Ariel Zhitnitsky wurde in Leningrad (heute St. Petersburg) in Russland geboren und studierte in Moskau Physik und Mathematik. In den 1980er Jahren verließ er die Sowjetunion und arbeitete anschließend an verschiedenen Institutionen in den USA und Kanada, bevor er Professor an der University of British Columbia wurde. 
+
+## Academic Achievements and International Collaborations
+Zhitnitsky hat in seiner internationalen Karriere zahlreiche Beiträge zu den Gebieten der theoretischen Kernphysik und Quantenfeldtheorie geleistet. Er arbeitete mit Physikern an der Fakultät für Physik an der Ludwig-Maximilians-Universität München, der Harvard University, dem Massachusetts Institute of Technology und der Cornell University zusammen. 
+
+## Areas of Research and Contributions
+Zhitnitsky hat sich besonders mit der Quantenchromodynamik (QCD) auseinandergesetzt, welche das Verhalten von Quarks und Gluonen beschreibt. Er hat interessante Modelle von Teilchen- und Kernstruktur entwickelt, die für ein besseres Verständnis des Aufbaus von Protonen, Neutronen und Atomkernen von Bedeutung sind. 
+
+## Awards and Honours
+Ariel Zhitnitsky wurde 1991 mit dem Sloan Research Fellowship und 1995 mit dem J. J. Sakurai-Preis für theoretische Teilchenphysik ausgezeichnet. Er war auch der Koordinator des Internationalen Theoriezentrums für Kernphysik in Kiew, Ukraine.
+
+## Summary Statement
+Ariel Zhitnitsky hat während seiner Karriere als Physiker und Mathematiker erheblich zur theoretischen Kernphysik und Quantenfeldtheorie beigetragen. Er ist ein international anerkannter Wissenschaftler und hat in Zusammenarbeit mit anderen Forschern an mehreren renommierten Institutionen gearbeitet. Zhitnitsky hat auch wertvolles Wissen über die Quantenchromodynamik (QCD) erworben und entscheidende Einblicke in den Aufbau von Protonen, Neutronen und Atomkernen geliefert. Für seine Arbeit wurde er mit wichtigen Auszeichnungen wie dem Sloan Research Fellowship und dem J. J. Sakurai-Preis honoriert. Ariel Zhitnitsky ist somit ein herausragender Experte auf seinem Gebiet, der einen außerordentlichen Beitrag zur wissenschaftlichen Gemeinschaft geleistet hat.
+
+================================================================================
+
