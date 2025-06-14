@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project is a binary text classification system designed to detect whether a given text is AI-generated or human-written. We developed and evaluated multiple models for this task, including RoBERTa, stylometric feature extraction using Random Forest, and fine-tuned Google T5 models. This work was conducted as part of the CS162 final project at UCLA.
+This project is a binary text classification system designed to detect whether a given text is AI-generated or human-written. We developed and evaluated multiple models for this task, including RoBERTa, stylometric feature extraction using Random Forest, and fine-tuned Google T5 models.
 
 We trained our models primarily using the [Human ChatGPT Comparison Corpus (HC3)](https://huggingface.co/datasets/Hello-SimpleAI/HC3), along with additional human-written data from [IELTS Writing Task Evaluation](https://huggingface.co/datasets/chillies/IELTS-writing-task-2-evaluation). Our models were evaluated on a provided dev set consisting of both AI-generated and human-written text across multiple domains, including academic writing, open QA, Reddit-style discussions, and other open-ended text domains.
 
