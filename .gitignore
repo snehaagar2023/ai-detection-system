@@ -4,4 +4,5 @@ initial-roberta-ai-detector/
 moredata-roberta-ai-detector/
 initial-t5-ai-detector/
 t5-large-ai-detector/
+t5-ethics-ai-human-detector/
 *.zip
